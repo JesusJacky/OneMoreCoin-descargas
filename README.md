@@ -184,6 +184,32 @@ El botón **«Analizar mi equipo»** te dice si te conviene. Funciona desde un I
 - Tu biblioteca se lee **en tu PC y solo leyendo**: Insert Coin **nunca cambia nada** de tus launchers.
 - **Sin cuentas, sin publicidad, sin analítica.** Para completar cada juego solo se pregunta su nombre a servicios públicos (tienda de Steam, Wikidata…), sin nada que te identifique.
 
+## 🔑 Claves opcionales: RAWG y SteamGridDB
+
+Insert Coin funciona **sin nada más**. Pero si quieres **más notas de jugadores y más portadas** (sobre todo de juegos que no están en
+Steam), puedes añadir dos **claves gratuitas** de dos webs muy conocidas entre jugadores. Es opcional y se hace en 2 minutos.
+
+| | 🎮 **RAWG** ([rawg.io](https://rawg.io)) | 🖼️ **SteamGridDB** ([steamgriddb.com](https://www.steamgriddb.com)) |
+|---|---|---|
+| **Qué es** | Una de las bases de datos de videojuegos más grandes del mundo, con las notas y opiniones de sus jugadores | Una web hecha por la comunidad con portadas, logos y fondos de juegos, muy usada para personalizar las portadas de Steam y de otros programas de biblioteca |
+| **Qué te da en Insert Coin** | La nota de los jugadores, el año, los géneros y el reparto de opiniones, también de juegos que no están en Steam | Portadas de reserva para los juegos que no tienen portada o la tienen en blanco y negro |
+| **Cómo se saca** | En rawg.io/apidocs → «Get API key», con una cuenta gratis | En steamgriddb.com, entrando con tu cuenta de Steam → Perfil → Preferencias → API |
+
+**¿Qué es una «clave»?** Un código que te da cada web para que una app le pueda **pedir datos de juegos** (es como un pase de
+biblioteca). **No es tu contraseña** y no da acceso a tu cuenta ni a nada tuyo: solo sirve para consultar información pública de juegos.
+
+**¿Es seguro?**
+- ✅ Las dos son **gratis** y no piden tarjeta ni pagos.
+- ✅ La clave se guarda **cifrada en tu PC** y cada una **solo se envía a su propia web**: Insert Coin no la manda a nadie más.
+- ✅ La puedes **quitar** cuando quieras (menú 🪙 → Ajustes) y también borrarla o cambiarla en la propia web.
+- ✅ En SteamGridDB, el inicio de sesión se hace **en la web oficial de Steam**: SteamGridDB no ve tu contraseña.
+- ℹ️ La cuenta la creas **con ellas**, no con Insert Coin, y se rige por sus propias condiciones; Insert Coin nunca ve tu correo ni tu cuenta.
+
+**¿Y por qué una clave tuya y no una de la app?** Estas webs dan a cada persona un número limitado de consultas. Si la app llevara una
+sola clave para todos, entre todos se gastaría el límite en un día; con la tuya, el límite es solo tuyo.
+
+Dónde se ponen: **menú 🪙 → Ajustes → «Claves para más datos»**, con los pasos explicados uno a uno y un botón que comprueba que funciona.
+
 ## 💻 Requisitos
 
 ### 🪟 Windows
@@ -272,6 +298,11 @@ No. Solo **lee** sus archivos, nunca los cambia. Y para jugar o instalar, se lo 
 <details><summary><b>¿Cómo me recomienda juegos? ¿Me espía?</b></summary>
 
 No. En «🏷️ Ofertas → ✨ Para ti», Insert Coin mira **en tu PC** tus horas de juego y los juegos que ya tienes: te propone los de las **sagas que juegas** que aún te faltan y ofertas de los **géneros a los que más horas dedicas**. Tu biblioteca y tus horas no salen de tu PC: solo pregunta a Wikidata, por su código, de qué saga o género es cada juego.
+</details>
+
+<details><summary><b>¿Qué son las claves de RAWG y SteamGridDB? ¿Son seguras?</b></summary>
+
+Son **opcionales y gratis**: sirven para tener más notas de jugadores (RAWG) y más portadas (SteamGridDB). Una clave **no es tu contraseña** ni da acceso a tu cuenta; se guarda **cifrada en tu PC** y solo se envía a su propia web. Todo explicado en [Claves opcionales](#-claves-opcionales-rawg-y-steamgriddb).
 </details>
 
 <details><summary><b>¿Ralentiza mis juegos?</b></summary>
