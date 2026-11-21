@@ -16,7 +16,7 @@
 
 <a href="https://jesusjacky.github.io/InsertCoin-descargas/"><img src="avance.gif" alt="Insert Coin en acción" width="900"></a>
 
-**[▶ Ver el vídeo completo (1:32)](https://jesusjacky.github.io/InsertCoin-descargas/)**<br><sub>Música: «It Takes A Hero», de Zane Little Music (CC0)</sub>
+**[▶ Ver el vídeo completo (2 min)](https://jesusjacky.github.io/InsertCoin-descargas/)**<br><sub>Música: «It Takes A Hero», de Zane Little Music (CC0)</sub>
 
 </div>
 
@@ -59,6 +59,8 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 
 **Insert Coin** lee tus launchers y junta **todos tus juegos en una sola biblioteca**, con su portada, tus horas, tus logros, el año, lo que opina la gente… Si tienes el mismo juego en varias tiendas, sale **una sola vez**. Y desde ahí mismo **lo juegas o lo instalas**.
 
+**No es una tienda: no vende nada.** Es tu biblioteca: tus juegos siguen en su tienda de siempre, y para jugar se lo pide a ella.
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -98,6 +100,18 @@ Unas preguntas rápidas sobre cómo estás hoy (¿cansado?, ¿con ganas de pensa
 </tr>
 </table>
 
+## 📖 Toda la información de cada juego (y su nivel)
+
+Cada juego tiene su ficha completa, para saber de un vistazo si merece la pena:
+
+- 📅 **Año de lanzamiento**, géneros, modos (cooperativo, online, PvP…) y **quién lo hizo** (desarrolladora y editora).
+- ⭐ **Puntuaciones** de los jugadores (Steam, RAWG, GOG) y de la crítica (Metacritic), y **«Qué dice el fandom»**: un resumen de lo que opina la gente.
+- 🏅 **Su nivel**: cada carta lleva su etiqueta (**Top, Juegazo, Muy bueno, Normal o Flojo**) según la nota de los jugadores, de la crítica o de las dos. Puedes filtrar por nivel o **ponerle el tuyo**.
+- ✍️ **Tu propia reseña**: tu nota del 1 al 10 y lo que te ha parecido, guardado en tu PC.
+- 🎬 Descripción, capturas y vídeos, tus horas, tus logros, la insignia **GOTY** si ganó el Juego del Año… y el botón para **jugar o instalar**.
+
+<div align="center"><img src="capturas/2-ficha-jugar.png" width="80%" alt="Ficha de un juego"></div>
+
 ## 🏛️ La colección de clásicos
 
 Más de **230 juegos que hicieron historia**, de *Space Invaders* a *Baldur's Gate 3*. Los que tienes llevan la etiqueta 🏛️ y su
@@ -117,13 +131,18 @@ Coge el mando, túmbate y elige desde el sofá: **pantalla completa**, tus juego
 
 <div align="center"><img src="capturas/10-modo-sofa.png" width="900" alt="Modo sofá"></div>
 
-## 🏷️ Ofertas, juegos gratis y ⭐ deseados
+## 🏷️ Ofertas, juegos gratis, ✨ recomendados y ⭐ deseados
 
-Para el que no tiene ganas de mirar tienda por tienda: **todo en una ventana**, por secciones.
+Para el que no tiene ganas de mirar tienda por tienda: Insert Coin **rastrea por ti los juegos gratis y las ofertas** de Steam, Epic,
+GOG, Humble, Fanatical y más, **te avisa** cuando hay algo que te interesa y lo junta **todo en una ventana**, por secciones.
 
 - 🎁 **Gratis:** los juegos que se pueden conseguir **gratis para siempre** ahora mismo, en Steam, Epic, GOG, itch.io… (y si quieres, también en móvil y consola).
 - 🏷️ **Ofertas:** las mejores rebajas de **Steam, GOG, Humble, Fanatical, Epic, Green Man Gaming…**, con **filtro por tienda** y orden por descuento o precio.
   Las **rebajas destacadas de Steam**, en euros y con la cuenta atrás de cuándo terminan (las de un día o de fin de semana).
+- ✨ **Para ti:** juegos **recomendados a tu medida**, a partir de **tus horas de juego** y de **los juegos que ya tienes**: los de **las sagas que ya juegas**
+  y aún te faltan (¿tienes Dark Souls III? te enseña el resto de la saga), con los que están en oferta destacados, y ofertas de **los géneros a
+  los que más horas dedicas**, distintas cada día. **No es intrusivo:** todo se calcula **en tu PC**; tu biblioteca y tus horas no salen de él
+  (solo se consulta a Wikidata, por su código, de qué saga o género es cada juego).
 - 📦 **Bundles:** packs de varios juegos a precio de risa, con los juegos que trae cada uno *(muy pronto)*.
 - ⭐ **Tus deseados:** apunta los juegos que quieres y te avisa cuando **bajan de precio** o se **regalan**. Y si alguno aparece ya en tu biblioteca, te lo dice.
 
@@ -144,6 +163,11 @@ Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana
 <img src="capturas/9-estilo-ventana95.png" width="32%" alt="Estilo Ventana 95">
 </div>
 
+## 🐢 Para cualquier PC
+
+¿Equipo antiguo o portátil justo? Activa el **Modo ligero** (menú 🪙 → Ajustes): quita solo los efectos que más cargan y todo lo demás se queda igual.
+El botón **«Analizar mi equipo»** te dice si te conviene. Funciona desde un Intel Core i3 de 1.ª generación con 4 GB de memoria.
+
 ## ✨ Y además
 
 | | |
@@ -153,7 +177,7 @@ Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana
 | 🔍 **Filtros de todo tipo**: tienda, género, cooperativo, PvP, sin estrenar, nota… | ✍️ **Tu nivel y tu crítica** para cada juego |
 | 🔄 **Se actualiza sola**: tu biblioteca y la propia app | 🐢 **Modo ligero** para PCs antiguos, con **análisis de tu equipo** |
 | ➕ **Añade a mano** lo que una tienda no guarde en el PC | 📰 **Novedades** de cada versión dentro de la app |
-| 🔔 **Avisos**: versión nueva, ofertas de tus deseados y deseados que ya tienes | 🧩 **Una sola carta** aunque tengas el juego en varias tiendas |
+| 🔔 **Avisos**: juegos gratis y ofertas nuevas, versión nueva, ofertas de tus deseados y deseados que ya tienes | 🧩 **Una sola carta** aunque tengas el juego en varias tiendas |
 
 ## 🔒 Tus datos son tuyos
 
@@ -243,6 +267,11 @@ No debería: Insert Coin **no se mete en los juegos**. No lee su memoria, no pon
 <details><summary><b>¿Puede romper algo de mis tiendas o de mis juegos?</b></summary>
 
 No. Solo **lee** sus archivos, nunca los cambia. Y para jugar o instalar, se lo pide a la propia tienda con sus enlaces oficiales.
+</details>
+
+<details><summary><b>¿Cómo me recomienda juegos? ¿Me espía?</b></summary>
+
+No. En «🏷️ Ofertas → ✨ Para ti», Insert Coin mira **en tu PC** tus horas de juego y los juegos que ya tienes: te propone los de las **sagas que juegas** que aún te faltan y ofertas de los **géneros a los que más horas dedicas**. Tu biblioteca y tus horas no salen de tu PC: solo pregunta a Wikidata, por su código, de qué saga o género es cada juego.
 </details>
 
 <details><summary><b>¿Ralentiza mis juegos?</b></summary>
