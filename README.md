@@ -43,21 +43,18 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 | Abre la **tienda oficial** cuando pulsas «Jugar» o «Instalar» | No lleva publicidad ni instala otros programas |
 | Se actualiza sola desde esta misma página | No hace falta tenerlo abierto para jugar |
 
-- **¿Quién está detrás?** Una persona: **JesusJacky**, que lo hace como proyecto personal. Contacto: **jesusJacky.InsertCoin@gmail.com**.
+- **¿Quién está detrás?** Una persona: **JesusJacky**, que lo hace como proyecto personal. Contacto: **jesusjacky.onemorecoin@gmail.com**.
 - **¿Por qué Windows avisa al instalarlo?** Porque la app aún no tiene un **certificado de firma** (cuestan dinero cada año y
   esto es gratuito). Windows avisa de **cualquier** programa nuevo sin firmar, no porque haya encontrado nada. Pulsa
   «Más información» → «Ejecutar de todos modos».
 - **Está en fase beta:** funciona, pero puede tener algún fallo. Si ves uno, cuéntalo desde «💬 Sugerencias» en la propia app.
 
 <!-- NOVEDADES:INICIO -->
-## 🆕 Lo nuevo en la versión 0.4.0 · Insert Coin ahora se llama One More Coin
+## 🆕 Lo nuevo en la versión 0.4.1 · Ya no queda nada con el nombre antiguo
 
-- **✨ Nuevo:** 🪙 **Nombre nuevo: One More Coin**. Es **la misma app**: tu biblioteca, tus niveles, tus críticas, tus deseados, tus claves y tus ajustes se quedan tal cual (se mudan solos la primera vez que la abres). El cambio es porque el nombre «Insert Coin» ya lo tenía registrado otra empresa para software y videojuegos.
-- **⬆️ Mejora:** El título de la biblioteca ahora es **ONE MORE COIN**, parpadeando como siempre, con **LIBRARY** debajo. El logo de la moneda entrando en la ranura no cambia.
-- **⬆️ Mejora:** La página de descargas, el instalador y los vídeos también llevan el nombre nuevo. Los enlaces antiguos de GitHub siguen llevando a la página nueva.
-- **⬆️ Mejora:** La **desarrolladora y la editora** de cada juego también se sacan de la tienda de Steam cuando Wikidata no las sabe, así que salen en muchos más juegos.
-- **🔧 Arreglo:** En «🏷️ Ofertas» con «Todas las tiendas», el mismo juego ya no sale repetido una vez por tienda: sale una sola vez, con la oferta más barata y «(y en N tiendas más)».
-- **✨ Nuevo:** Preguntas frecuentes nuevas en 🪙 → ❓ Preguntas: cómo te recomienda juegos (sin espiarte), cómo te avisa de ofertas y juegos gratis, y qué son las claves de RAWG y SteamGridDB (y por qué son seguras). En Ajustes, cada clave explica qué es.
+- **🔧 Arreglo:** La app se instala en una carpeta llamada **One More Coin**: la carpeta antigua «Insert Coin» se borra sola al actualizar, y los accesos directos del escritorio y del menú Inicio apuntan a la nueva.
+- **🔧 Arreglo:** Tus datos ya no se quedan repetidos: cuando todo lo tuyo (biblioteca, niveles, críticas, deseados y claves) está comprobado en la carpeta nueva, se borra la copia antigua. También se borra el instalador viejo que guardaba el actualizador. En total, unos cientos de MB que vuelves a tener libres.
+- **⬆️ Mejora:** Correo nuevo de contacto: **jesusjacky.onemorecoin@gmail.com**. El buzón de 💬 Sugerencias ya envía ahí.
 
 **[📜 Todas las novedades, versión a versión →](NOVEDADES.md)**
 <!-- NOVEDADES:FIN -->
@@ -351,7 +348,7 @@ No. No tiene publicidad, no instala nada más y no necesita permisos de administ
 
 <details><summary><b>¿Quién lo ha hecho?</b></summary>
 
-**JesusJacky**, como proyecto personal, por pura pereza de abrir seis tiendas para saber qué juegos tiene 😅. Puedes escribirle a **jesusJacky.InsertCoin@gmail.com** o desde «💬 Sugerencias» en la app.
+**JesusJacky**, como proyecto personal, por pura pereza de abrir seis tiendas para saber qué juegos tiene 😅. Puedes escribirle a **jesusjacky.onemorecoin@gmail.com** o desde «💬 Sugerencias» en la app.
 </details>
 
 ---

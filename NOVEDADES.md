@@ -2,6 +2,13 @@
 
 ## 🆕 Lo último
 
+### 0.4.1 · Ya no queda nada con el nombre antiguo (22/11/2026 · Beta)
+- **🔧 Arreglo:** La app se instala en una carpeta llamada **One More Coin**: la carpeta antigua «Insert Coin» se borra sola al actualizar, y los accesos directos del escritorio y del menú Inicio apuntan a la nueva.
+- **🔧 Arreglo:** Tus datos ya no se quedan repetidos: cuando todo lo tuyo (biblioteca, niveles, críticas, deseados y claves) está comprobado en la carpeta nueva, se borra la copia antigua. También se borra el instalador viejo que guardaba el actualizador. En total, unos cientos de MB que vuelves a tener libres.
+- **⬆️ Mejora:** Correo nuevo de contacto: **jesusjacky.onemorecoin@gmail.com**. El buzón de 💬 Sugerencias ya envía ahí.
+
+## 📜 Versiones anteriores
+
 ### 0.4.0 · Insert Coin ahora se llama One More Coin (22/11/2026 · Beta)
 - **✨ Nuevo:** 🪙 **Nombre nuevo: One More Coin**. Es **la misma app**: tu biblioteca, tus niveles, tus críticas, tus deseados, tus claves y tus ajustes se quedan tal cual (se mudan solos la primera vez que la abres). El cambio es porque el nombre «Insert Coin» ya lo tenía registrado otra empresa para software y videojuegos.
 - **⬆️ Mejora:** El título de la biblioteca ahora es **ONE MORE COIN**, parpadeando como siempre, con **LIBRARY** debajo. El logo de la moneda entrando en la ranura no cambia.
@@ -9,8 +16,6 @@
 - **⬆️ Mejora:** La **desarrolladora y la editora** de cada juego también se sacan de la tienda de Steam cuando Wikidata no las sabe, así que salen en muchos más juegos.
 - **🔧 Arreglo:** En «🏷️ Ofertas» con «Todas las tiendas», el mismo juego ya no sale repetido una vez por tienda: sale una sola vez, con la oferta más barata y «(y en N tiendas más)».
 - **✨ Nuevo:** Preguntas frecuentes nuevas en 🪙 → ❓ Preguntas: cómo te recomienda juegos (sin espiarte), cómo te avisa de ofertas y juegos gratis, y qué son las claves de RAWG y SteamGridDB (y por qué son seguras). En Ajustes, cada clave explica qué es.
-
-## 📜 Versiones anteriores
 
 ### 0.3.5 · Recomendados para ti (21/11/2026 · Beta)
 - **✨ Nuevo:** Nueva pestaña **✨ Para ti** en Ofertas: juegos de las **sagas que ya juegas** y que aún no tienes (si tienes Dark Souls III, el resto de la saga), con los que están **en oferta** destacados arriba, y ofertas de los **géneros a los que más horas dedicas**, mezclados y distintos cada día.
