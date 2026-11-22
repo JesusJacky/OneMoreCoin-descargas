@@ -50,10 +50,16 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 - **Está en fase beta:** funciona, pero puede tener algún fallo. Si ves uno, cuéntalo desde «💬 Sugerencias» en la propia app.
 
 <!-- NOVEDADES:INICIO -->
-## 🆕 Lo nuevo en la versión 0.4.2 · One More Coin de arriba abajo
+## 🆕 Lo nuevo en la versión 0.4.3 · Más de 60 estilos
 
-- **⬆️ Mejora:** Windows ya reconoce la app solo como **One More Coin** (identificador interno nuevo). Al actualizar se quita sola la instalación anterior, sin tocar tus datos, y no quedan dos apps en «Aplicaciones».
-- **🔧 Arreglo:** Se borra la carpeta vacía que dejaba el instalador anterior.
+- **✨ Nuevo:** 🎨 **41 estilos nuevos**, y ya hay más de 60. Cada uno trae su propia letra, sus colores y su efecto al pasar el ratón por las portadas, para que se reconozca de un vistazo qué representa.
+- **✨ Nuevo:** 🪟 **Ordenadores:** Ventana XP, Ventana 7, Ventana 10, Ventana 11, Pingüino y 🌈 Modo RGB, con un fondo que va pasando por todos los colores.
+- **✨ Nuevo:** 🎮 **Consolas y portátiles:** Estación 1, 2, 3, 4, 5 y portátil, Xcaja, Portátil Color, Portátil Avanzada y Portátil 3D.
+- **✨ Nuevo:** 🕹️ **Juegos:** Ciudad del vicio, Isla tranquila, Simulación de vida, Determinación, Tetrabloques, Tuberías, Monstruos de bolsillo, Has muerto, Tierras fronterizas, Edad de imperios, Arenas del tiempo, GT, Horda y Alianza y Martillo de guerra 40K.
+- **✨ Nuevo:** ⛩️ **Anime:** Monstruos digitales, Cazadores de demonios (con la respiración del agua), Ataque titánico (con el gigante colosal) y Esferas del dragón.
+- **✨ Nuevo:** 🎬 **Cine y series:** Castillo de cuento, Superhéroes, Maratón de series, Mundo del revés, Escuela de magia y Familia amarilla. Y además, 📞 Videollamada.
+- **⬆️ Mejora:** La lista de Apariencia va ahora **por grupos** (Principales, Fantasía y aventura, Arte, Ordenadores, Consolas, Portátiles, Juegos, Anime, Chat y llamadas, Cine y series), para encontrar cada estilo enseguida.
+- **🔧 Arreglo:** En los estilos claros ya se lee el letrero «Juego del Año» del recuadro dorado de la ficha.
 
 **[📜 Todas las novedades, versión a versión →](NOVEDADES.md)**
 <!-- NOVEDADES:FIN -->
@@ -158,14 +164,17 @@ GOG, Humble, Fanatical y más, **te avisa** cuando hay algo que te interesa y lo
 
 <sub>One More Coin no vende juegos ni cobra comisiones: cada oferta te lleva a su tienda. Precios de Steam en euros; los del resto de tiendas, en dólares (vienen de <a href="https://www.cheapshark.com">CheapShark</a>, que solo trabaja en dólares). Juegos gratis gracias a <a href="https://www.gamerpower.com">GamerPower</a>.</sub>
 
-## 🎨 21 estilos para tu biblioteca
+## 🎨 Más de 60 estilos para tu biblioteca
 
-Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana de los 90, survival horror… Cambia el aspecto entero con un clic.
+Recreativa de neón, escritorios de ventanas de varias épocas, consolas de sobremesa y portátiles, juegos míticos, anime, cine y series, un modo RGB que pasa por todos los colores… Cada estilo trae su propia letra y su propio efecto al pasar el ratón. Cambia el aspecto entero con un clic.
 
 <div align="center">
 <img src="capturas/7-estilo-cyberpunk.png" width="32%" alt="Estilo cyberpunk">
 <img src="capturas/8-estilo-jrpg.png" width="32%" alt="Estilo JRPG">
 <img src="capturas/9-estilo-ventana95.png" width="32%" alt="Estilo Ventana 95">
+<img src="capturas/16-estilo-rgb.png" width="32%" alt="Estilo Modo RGB">
+<img src="capturas/17-estilo-agua.png" width="32%" alt="Estilo Cazadores de demonios">
+<img src="capturas/18-estilo-tuberias.png" width="32%" alt="Estilo Tuberías">
 </div>
 
 ## 🐢 Para cualquier PC

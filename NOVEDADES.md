@@ -2,11 +2,21 @@
 
 ## 🆕 Lo último
 
+### 0.4.3 · Más de 60 estilos (22/11/2026 · Beta)
+- **✨ Nuevo:** 🎨 **41 estilos nuevos**, y ya hay más de 60. Cada uno trae su propia letra, sus colores y su efecto al pasar el ratón por las portadas, para que se reconozca de un vistazo qué representa.
+- **✨ Nuevo:** 🪟 **Ordenadores:** Ventana XP, Ventana 7, Ventana 10, Ventana 11, Pingüino y 🌈 Modo RGB, con un fondo que va pasando por todos los colores.
+- **✨ Nuevo:** 🎮 **Consolas y portátiles:** Estación 1, 2, 3, 4, 5 y portátil, Xcaja, Portátil Color, Portátil Avanzada y Portátil 3D.
+- **✨ Nuevo:** 🕹️ **Juegos:** Ciudad del vicio, Isla tranquila, Simulación de vida, Determinación, Tetrabloques, Tuberías, Monstruos de bolsillo, Has muerto, Tierras fronterizas, Edad de imperios, Arenas del tiempo, GT, Horda y Alianza y Martillo de guerra 40K.
+- **✨ Nuevo:** ⛩️ **Anime:** Monstruos digitales, Cazadores de demonios (con la respiración del agua), Ataque titánico (con el gigante colosal) y Esferas del dragón.
+- **✨ Nuevo:** 🎬 **Cine y series:** Castillo de cuento, Superhéroes, Maratón de series, Mundo del revés, Escuela de magia y Familia amarilla. Y además, 📞 Videollamada.
+- **⬆️ Mejora:** La lista de Apariencia va ahora **por grupos** (Principales, Fantasía y aventura, Arte, Ordenadores, Consolas, Portátiles, Juegos, Anime, Chat y llamadas, Cine y series), para encontrar cada estilo enseguida.
+- **🔧 Arreglo:** En los estilos claros ya se lee el letrero «Juego del Año» del recuadro dorado de la ficha.
+
+## 📜 Versiones anteriores
+
 ### 0.4.2 · One More Coin de arriba abajo (22/11/2026 · Beta)
 - **⬆️ Mejora:** Windows ya reconoce la app solo como **One More Coin** (identificador interno nuevo). Al actualizar se quita sola la instalación anterior, sin tocar tus datos, y no quedan dos apps en «Aplicaciones».
 - **🔧 Arreglo:** Se borra la carpeta vacía que dejaba el instalador anterior.
-
-## 📜 Versiones anteriores
 
 ### 0.4.1 · Ya no queda nada con el nombre antiguo (22/11/2026 · Beta)
 - **🔧 Arreglo:** La app se instala en una carpeta llamada **One More Coin**: la carpeta antigua se borra sola al actualizar, y los accesos directos del escritorio y del menú Inicio apuntan a la nueva.
