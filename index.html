@@ -1,11 +1,11 @@
 <!doctype html>
-<!-- © 2026 JesusJacky · Insert Coin. Todos los derechos reservados. Prohibida su copia, modificación o distribución sin permiso del autor. Huella: IC-JJ-2026-341FA0A4E670 -->
+<!-- © 2026 JesusJacky · One More Coin. Todos los derechos reservados. Prohibida su copia, modificación o distribución sin permiso del autor. Huella: IC-JJ-2026-341FA0A4E670 -->
 <html lang="es">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Insert Coin · tu biblioteca de juegos</title>
-<meta name="description" content="Insert Coin junta todos tus juegos de Steam, Epic, GOG, EA, Ubisoft, Battle.net, Riot y más en una sola biblioteca. Gratis.">
+<title>One More Coin · tu biblioteca de juegos</title>
+<meta name="description" content="One More Coin junta todos tus juegos de Steam, Epic, GOG, EA, Ubisoft, Battle.net, Riot y más en una sola biblioteca. Gratis.">
 <link rel="icon" href="icono.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,6 +22,10 @@
     animation: parpadeo 1.1s steps(1) infinite; }
   @keyframes parpadeo { 50% { opacity: .55; } }
   @media (prefers-reduced-motion: reduce) { h1 { animation: none; } }
+  .nombre { display: flex; flex-direction: column; align-items: flex-start; }
+  .lib { margin: 10px 0 0; font: 400 clamp(12px, 2.2vw, 20px)/1 "Press Start 2P", monospace; color: var(--cian); letter-spacing: .45em; }
+  .aviso-nombre { max-width: 760px; margin: 14px auto 0; text-align: center; border: 2px solid var(--amarillo); background: rgba(255,230,0,.08); padding: 10px 16px; font-size: 15px; color: var(--suave); }
+  .aviso-nombre b { color: var(--amarillo); }
   .lema { text-align: center; font-size: clamp(18px, 2.4vw, 22px); font-weight: 800; margin: 18px 0 6px; }
   .tiendas { text-align: center; color: var(--suave); font-size: 14px; margin: 0 0 26px; }
   .video { position: relative; border: 4px solid var(--rosa); box-shadow: 0 0 0 4px #000, 0 0 50px rgba(255,43,214,.45), 10px 10px 0 4px #000; background: #000; }
@@ -47,21 +51,22 @@
 </head>
 <body>
 <div class="contenedor">
-  <header><img src="icono.png" alt=""><h1>INSERT COIN</h1></header>
+  <header><img src="icono.png" alt=""><div class="nombre"><h1>ONE MORE COIN</h1><p class="lib">LIBRARY</p></div></header>
+  <p class="aviso-nombre">🪙 <b>Insert Coin ahora se llama One More Coin.</b> Es la misma app: si ya la tenías, se actualiza sola y conserva todo lo tuyo.</p>
   <p class="lema">Todos tus juegos. Una sola biblioteca. Cero excusas para no jugar.</p>
   <p class="tiendas">Un programa <b>gratuito</b> que junta en una sola pantalla los juegos que ya tienes (no es una tienda: no vende nada) en<br>Steam · Epic Games · GOG · EA · Ubisoft · Battle.net · Riot · Amazon · itch.io · Rockstar · Xbox · Humble · Legacy Games</p>
 
   <div class="video">
     <video controls playsinline preload="metadata" poster="capturas/portada-video.jpg" controlslist="nodownload noplaybackrate" disablepictureinpicture oncontextmenu="return false">
-      <source src="video/Insert-Coin-promo.mp4?v=2" type="video/mp4">
+      <source src="video/One-More-Coin-promo.mp4?v=3" type="video/mp4">
       Tu navegador no puede reproducir el vídeo.
     </video>
   </div>
   <p class="creditos">Música: «It Takes A Hero», de Zane Little Music (CC0)</p>
 
   <div class="botones">
-    <a class="boton" href="https://github.com/JesusJacky/InsertCoin-descargas/releases/latest">⬇ Descargar gratis</a>
-    <a class="boton secundario" href="https://github.com/JesusJacky/InsertCoin-descargas">Más información</a>
+    <a class="boton" href="https://github.com/JesusJacky/OneMoreCoin-descargas/releases/latest">⬇ Descargar gratis</a>
+    <a class="boton secundario" href="https://github.com/JesusJacky/OneMoreCoin-descargas">Más información</a>
   </div>
 
   <div class="fiar">
@@ -88,9 +93,9 @@
   </div>
 
   <p class="aviso"><b>Gratis y en beta.</b> Windows 10/11 (64 bits); Linux y Mac en prueba. Tu biblioteca se lee en tu PC y solo leyendo: no se envían tus datos a nadie.
-    Requisitos e instrucciones en la <a href="https://github.com/JesusJacky/InsertCoin-descargas">página de descargas</a>.</p>
+    Requisitos e instrucciones en la <a href="https://github.com/JesusJacky/OneMoreCoin-descargas">página de descargas</a>.</p>
 
-  <footer>Un proyecto personal de JesusJacky · © 2026 JesusJacky. Todos los derechos reservados · Las marcas, portadas y textos de los juegos y las tiendas son de sus dueños; Insert Coin no está afiliada a ninguna.<br>
+  <footer>Un proyecto personal de JesusJacky · © 2026 JesusJacky. Todos los derechos reservados · Las marcas, portadas y textos de los juegos y las tiendas son de sus dueños; One More Coin no está afiliada a ninguna.<br>
     🪙 <i>Inserta una moneda para continuar…</i></footer>
 </div>
 </body>

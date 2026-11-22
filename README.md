@@ -1,33 +1,39 @@
 <div align="center">
 
-<img src="icono.png" width="140" alt="Insert Coin">
+<img src="icono.png" width="140" alt="One More Coin">
 
-# INSERT COIN
+# ONE MORE COIN
+#### LIBRARY
 
 ### Todos tus juegos. Una sola biblioteca. Cero excusas para no jugar.
 
 **Steam · Epic Games · GOG · EA · Ubisoft · Battle.net · Riot · Amazon · itch.io · Rockstar · Xbox · Humble · Legacy Games**
 
 [![Descargar](https://img.shields.io/badge/⬇_DESCARGAR-gratis-ffe600?style=for-the-badge&labelColor=0b0618)](../../releases/latest)
-[![Versión](https://img.shields.io/github/v/release/JesusJacky/InsertCoin-descargas?style=for-the-badge&label=versión&color=ff2bd6&labelColor=0b0618)](../../releases/latest)
+[![Versión](https://img.shields.io/github/v/release/JesusJacky/OneMoreCoin-descargas?style=for-the-badge&label=versión&color=ff2bd6&labelColor=0b0618)](../../releases/latest)
 ![Beta](https://img.shields.io/badge/fase-BETA-4cc9f0?style=for-the-badge&labelColor=0b0618)
 ![Windows](https://img.shields.io/badge/Windows-10_/_11-3ddc97?style=for-the-badge&labelColor=0b0618)
 ![Linux y Mac](https://img.shields.io/badge/Linux_·_Mac-prueba-9b8ec4?style=for-the-badge&labelColor=0b0618)
 
-<a href="https://jesusjacky.github.io/InsertCoin-descargas/"><img src="avance.gif" alt="Insert Coin en acción" width="900"></a>
+<a href="https://jesusjacky.github.io/OneMoreCoin-descargas/"><img src="avance.gif" alt="One More Coin en acción" width="900"></a>
 
-**[▶ Ver el vídeo completo (2 min)](https://jesusjacky.github.io/InsertCoin-descargas/)**<br><sub>Música: «It Takes A Hero», de Zane Little Music (CC0)</sub>
+**[▶ Ver el vídeo completo (2 min)](https://jesusjacky.github.io/OneMoreCoin-descargas/)**<br><sub>Música: «It Takes A Hero», de Zane Little Music (CC0)</sub>
 
 </div>
 
+> [!NOTE]
+> 🪙 **Insert Coin ahora se llama One More Coin.** Es **la misma app**, con las mismas funciones. Si ya la tenías, se actualiza
+> sola desde su menú 🪙 y conserva tu biblioteca, tus niveles, tus críticas, tus deseados y tus ajustes. El nombre cambia porque
+> «Insert Coin» ya lo tenía registrado otra empresa para software y videojuegos.
+
 ---
 
-> **En una frase:** Insert Coin es un programa **gratuito** para Windows que junta en una sola pantalla **todos los juegos que ya tienes**
+> **En una frase:** One More Coin es un programa **gratuito** para Windows que junta en una sola pantalla **todos los juegos que ya tienes**
 > en Steam, Epic, GOG, EA, Ubisoft, Battle.net y demás tiendas, para que no tengas que ir abriéndolas una por una.
 
 ## 🛡️ ¿Es de fiar?
 
-**No te pide nada.** Ni cuentas, ni contraseñas, ni correo, ni iniciar sesión en tus tiendas. Insert Coin solo **mira la lista de
+**No te pide nada.** Ni cuentas, ni contraseñas, ni correo, ni iniciar sesión en tus tiendas. One More Coin solo **mira la lista de
 juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en una sola pantalla.
 
 | ✅ Lo que hace | 🚫 Lo que no hace |
@@ -44,11 +50,14 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 - **Está en fase beta:** funciona, pero puede tener algún fallo. Si ves uno, cuéntalo desde «💬 Sugerencias» en la propia app.
 
 <!-- NOVEDADES:INICIO -->
-## 🆕 Lo nuevo en la versión 0.3.5 · Recomendados para ti
+## 🆕 Lo nuevo en la versión 0.4.0 · Insert Coin ahora se llama One More Coin
 
-- **✨ Nuevo:** Nueva pestaña **✨ Para ti** en Ofertas: juegos de las **sagas que ya juegas** y que aún no tienes (si tienes Dark Souls III, el resto de la saga), con los que están **en oferta** destacados arriba, y ofertas de los **géneros a los que más horas dedicas**, mezclados y distintos cada día.
-- **✨ Nuevo:** Pestaña **❓ Preguntas** en el menú 🪙: las preguntas frecuentes (¿qué gano yo?, ¿puede dar problemas con los antitrampas?, ¿ralentiza mis juegos?, ¿qué pasa si la desinstalo?…) y un enlace a todas las de la página de descargas.
-- **⬆️ Mejora:** Si tienes la remasterización de un juego, ya no se te recomienda el original (y al revés).
+- **✨ Nuevo:** 🪙 **Nombre nuevo: One More Coin**. Es **la misma app**: tu biblioteca, tus niveles, tus críticas, tus deseados, tus claves y tus ajustes se quedan tal cual (se mudan solos la primera vez que la abres). El cambio es porque el nombre «Insert Coin» ya lo tenía registrado otra empresa para software y videojuegos.
+- **⬆️ Mejora:** El título de la biblioteca ahora es **ONE MORE COIN**, parpadeando como siempre, con **LIBRARY** debajo. El logo de la moneda entrando en la ranura no cambia.
+- **⬆️ Mejora:** La página de descargas, el instalador y los vídeos también llevan el nombre nuevo. Los enlaces antiguos de GitHub siguen llevando a la página nueva.
+- **⬆️ Mejora:** La **desarrolladora y la editora** de cada juego también se sacan de la tienda de Steam cuando Wikidata no las sabe, así que salen en muchos más juegos.
+- **🔧 Arreglo:** En «🏷️ Ofertas» con «Todas las tiendas», el mismo juego ya no sale repetido una vez por tienda: sale una sola vez, con la oferta más barata y «(y en N tiendas más)».
+- **✨ Nuevo:** Preguntas frecuentes nuevas en 🪙 → ❓ Preguntas: cómo te recomienda juegos (sin espiarte), cómo te avisa de ofertas y juegos gratis, y qué son las claves de RAWG y SteamGridDB (y por qué son seguras). En Ajustes, cada clave explica qué es.
 
 **[📜 Todas las novedades, versión a versión →](NOVEDADES.md)**
 <!-- NOVEDADES:FIN -->
@@ -57,7 +66,7 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 
 ¿Cuántas tiendas de juegos tienes instaladas? ¿Cinco? ¿Seis? ¿Y cuántas veces has comprado en una oferta un juego **que ya tenías** en otra?
 
-**Insert Coin** lee tus launchers y junta **todos tus juegos en una sola biblioteca**, con su portada, tus horas, tus logros, el año, lo que opina la gente… Si tienes el mismo juego en varias tiendas, sale **una sola vez**. Y desde ahí mismo **lo juegas o lo instalas**.
+**One More Coin** lee tus launchers y junta **todos tus juegos en una sola biblioteca**, con su portada, tus horas, tus logros, el año, lo que opina la gente… Si tienes el mismo juego en varias tiendas, sale **una sola vez**. Y desde ahí mismo **lo juegas o lo instalas**.
 
 **No es una tienda: no vende nada.** Es tu biblioteca: tus juegos siguen en su tienda de siempre, y para jugar se lo pide a ella.
 
@@ -66,7 +75,7 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 <td width="50%" valign="top">
 
 ### ▶️ Juega e instala sin abrir mil tiendas
-Pulsa **Jugar** y Insert Coin le pide a su tienda oficial que lo abra. ¿No está instalado? **Instalar** te lleva directo a su instalación. La tienda sigue haciendo su trabajo: comprueba que es tuyo, cuenta tus horas y guarda tus partidas.
+Pulsa **Jugar** y One More Coin le pide a su tienda oficial que lo abra. ¿No está instalado? **Instalar** te lleva directo a su instalación. La tienda sigue haciendo su trabajo: comprueba que es tuyo, cuenta tus horas y guarda tus partidas.
 
 </td>
 <td width="50%"><img src="capturas/2-ficha-jugar.png" alt="Ficha de un juego con el botón Jugar"></td>
@@ -115,7 +124,7 @@ Cada juego tiene su ficha completa, para saber de un vistazo si merece la pena:
 ## 🏛️ La colección de clásicos
 
 Más de **230 juegos que hicieron historia**, de *Space Invaders* a *Baldur's Gate 3*. Los que tienes llevan la etiqueta 🏛️ y su
-**Historia**, escrita para Insert Coin: quién lo hizo, qué se atrevió a cambiar y por qué se recuerda. Si tienes un **remake** o una
+**Historia**, escrita para One More Coin: quién lo hizo, qué se atrevió a cambiar y por qué se recuerda. Si tienes un **remake** o una
 **remasterización** (*Dead Space*, *Resident Evil 4*, *Age of Empires II: Definitive Edition*…), comparte la historia del original y
 suma **la suya propia**. Y los que **te faltan** salen en tu biblioteca **apagados y sin portada**, con un 🔒, hasta que los consigues.
 ¿Cuántos tienes tú?
@@ -127,13 +136,13 @@ suma **la suya propia**. Y los que **te faltan** salen en tu biblioteca **apagad
 
 ## 🛋️ Modo sofá
 
-Coge el mando, túmbate y elige desde el sofá: **pantalla completa**, tus juegos en filas («Seguir jugando», «Instalados», «Para estrenar»…), el elegido en grande con sus capturas de fondo y **sonidos retro**. Funciona con mandos de Xbox y PlayStation (o con el teclado). Y si lo dejas quieto… *INSERT COIN*.
+Coge el mando, túmbate y elige desde el sofá: **pantalla completa**, tus juegos en filas («Seguir jugando», «Instalados», «Para estrenar»…), el elegido en grande con sus capturas de fondo y **sonidos retro**. Funciona con mandos de Xbox y PlayStation (o con el teclado). Y si lo dejas quieto… *ONE MORE COIN*.
 
 <div align="center"><img src="capturas/10-modo-sofa.png" width="900" alt="Modo sofá"></div>
 
 ## 🏷️ Ofertas, juegos gratis, ✨ recomendados y ⭐ deseados
 
-Para el que no tiene ganas de mirar tienda por tienda: Insert Coin **rastrea por ti los juegos gratis y las ofertas** de Steam, Epic,
+Para el que no tiene ganas de mirar tienda por tienda: One More Coin **rastrea por ti los juegos gratis y las ofertas** de Steam, Epic,
 GOG, Humble, Fanatical y más, **te avisa** cuando hay algo que te interesa y lo junta **todo en una ventana**, por secciones.
 
 - 🎁 **Gratis:** los juegos que se pueden conseguir **gratis para siempre** ahora mismo, en Steam, Epic, GOG, itch.io… (y si quieres, también en móvil y consola).
@@ -151,7 +160,7 @@ GOG, Humble, Fanatical y más, **te avisa** cuando hay algo que te interesa y lo
 <img src="capturas/15-gratis.png" width="49%" alt="Juegos gratis de todas las plataformas">
 </div>
 
-<sub>Insert Coin no vende juegos ni cobra comisiones: cada oferta te lleva a su tienda. Precios de Steam en euros; los del resto de tiendas, en dólares (vienen de <a href="https://www.cheapshark.com">CheapShark</a>, que solo trabaja en dólares). Juegos gratis gracias a <a href="https://www.gamerpower.com">GamerPower</a>.</sub>
+<sub>One More Coin no vende juegos ni cobra comisiones: cada oferta te lleva a su tienda. Precios de Steam en euros; los del resto de tiendas, en dólares (vienen de <a href="https://www.cheapshark.com">CheapShark</a>, que solo trabaja en dólares). Juegos gratis gracias a <a href="https://www.gamerpower.com">GamerPower</a>.</sub>
 
 ## 🎨 21 estilos para tu biblioteca
 
@@ -181,18 +190,18 @@ El botón **«Analizar mi equipo»** te dice si te conviene. Funciona desde un I
 
 ## 🔒 Tus datos son tuyos
 
-- Tu biblioteca se lee **en tu PC y solo leyendo**: Insert Coin **nunca cambia nada** de tus launchers.
+- Tu biblioteca se lee **en tu PC y solo leyendo**: One More Coin **nunca cambia nada** de tus launchers.
 - **Sin cuentas, sin publicidad, sin analítica.** Para completar cada juego solo se pregunta su nombre a servicios públicos (tienda de Steam, Wikidata…), sin nada que te identifique.
 
 ## 🔑 Claves opcionales: RAWG y SteamGridDB
 
-Insert Coin funciona **sin nada más**. Pero si quieres **más notas de jugadores y más portadas** (sobre todo de juegos que no están en
+One More Coin funciona **sin nada más**. Pero si quieres **más notas de jugadores y más portadas** (sobre todo de juegos que no están en
 Steam), puedes añadir dos **claves gratuitas** de dos webs muy conocidas entre jugadores. Es opcional y se hace en 2 minutos.
 
 | | 🎮 **RAWG** ([rawg.io](https://rawg.io)) | 🖼️ **SteamGridDB** ([steamgriddb.com](https://www.steamgriddb.com)) |
 |---|---|---|
 | **Qué es** | Una de las bases de datos de videojuegos más grandes del mundo, con las notas y opiniones de sus jugadores | Una web hecha por la comunidad con portadas, logos y fondos de juegos, muy usada para personalizar las portadas de Steam y de otros programas de biblioteca |
-| **Qué te da en Insert Coin** | La nota de los jugadores, el año, los géneros y el reparto de opiniones, también de juegos que no están en Steam | Portadas de reserva para los juegos que no tienen portada o la tienen en blanco y negro |
+| **Qué te da en One More Coin** | La nota de los jugadores, el año, los géneros y el reparto de opiniones, también de juegos que no están en Steam | Portadas de reserva para los juegos que no tienen portada o la tienen en blanco y negro |
 | **Cómo se saca** | En rawg.io/apidocs → «Get API key», con una cuenta gratis | En steamgriddb.com, entrando con tu cuenta de Steam → Perfil → Preferencias → API |
 
 **¿Qué es una «clave»?** Un código que te da cada web para que una app le pueda **pedir datos de juegos** (es como un pase de
@@ -200,10 +209,10 @@ biblioteca). **No es tu contraseña** y no da acceso a tu cuenta ni a nada tuyo:
 
 **¿Es seguro?**
 - ✅ Las dos son **gratis** y no piden tarjeta ni pagos.
-- ✅ La clave se guarda **cifrada en tu PC** y cada una **solo se envía a su propia web**: Insert Coin no la manda a nadie más.
+- ✅ La clave se guarda **cifrada en tu PC** y cada una **solo se envía a su propia web**: One More Coin no la manda a nadie más.
 - ✅ La puedes **quitar** cuando quieras (menú 🪙 → Ajustes) y también borrarla o cambiarla en la propia web.
 - ✅ En SteamGridDB, el inicio de sesión se hace **en la web oficial de Steam**: SteamGridDB no ve tu contraseña.
-- ℹ️ La cuenta la creas **con ellas**, no con Insert Coin, y se rige por sus propias condiciones; Insert Coin nunca ve tu correo ni tu cuenta.
+- ℹ️ La cuenta la creas **con ellas**, no con One More Coin, y se rige por sus propias condiciones; One More Coin nunca ve tu correo ni tu cuenta.
 
 **¿Y por qué una clave tuya y no una de la app?** Estas webs dan a cada persona un número limitado de consultas. Si la app llevara una
 sola clave para todos, entre todos se gastaría el límite en un día; con la tuya, el límite es solo tuyo.
@@ -254,9 +263,9 @@ Ve a **[la última versión](../../releases/latest)** y descarga la de tu sistem
 
 | Sistema | Archivo | |
 |---|---|---|
-| 🪟 **Windows 10 / 11** (64 bits) | `Insert-Coin-Instalador-X.Y.Z.exe` | ✅ Recomendada |
-| 🐧 Linux | `Insert-Coin-X.Y.Z-Linux.AppImage` | 🧪 Prueba (solo lee Steam) |
-| 🍎 Mac (chip Apple) | `Insert-Coin-X.Y.Z-Mac.dmg` | 🧪 Prueba (solo lee Steam) |
+| 🪟 **Windows 10 / 11** (64 bits) | `One-More-Coin-Instalador-X.Y.Z.exe` | ✅ Recomendada |
+| 🐧 Linux | `One-More-Coin-X.Y.Z-Linux.AppImage` | 🧪 Prueba (solo lee Steam) |
+| 🍎 Mac (chip Apple) | `One-More-Coin-X.Y.Z-Mac.dmg` | 🧪 Prueba (solo lee Steam) |
 
 > [!NOTE]
 > **¿Sale «Windows protegió su PC»?** Es normal: la app no tiene un certificado de firma (cuesta dinero cada año y esto es un proyecto personal y gratuito), no porque tenga nada malo. Pulsa **«Más información» → «Ejecutar de todos modos»**.
@@ -265,7 +274,7 @@ Instrucciones completas (también Linux y Mac) en el **[LEEME](LEEME.txt)** · Q
 
 ## ❓ Preguntas frecuentes
 
-<details><summary><b>¿Qué gano yo usando Insert Coin?</b></summary>
+<details><summary><b>¿Qué gano yo usando One More Coin?</b></summary>
 
 Ver **todos tus juegos juntos** sin abrir seis tiendas, no volver a comprar algo que **ya tenías** en otra, redescubrir lo que compraste y **nunca estrenaste**, tener los juegos gratis y las ofertas en un solo sitio, y que el dado o el test te ayuden a decidir a qué jugar.
 </details>
@@ -277,7 +286,7 @@ Sí. Es una **beta**: una versión de prueba, gratis, que puede tener algún fal
 
 <details><summary><b>¿Necesito una cuenta o dar mis contraseñas?</b></summary>
 
-No. Insert Coin no te pide nada: ni cuentas, ni contraseñas, ni correo, ni iniciar sesión en tus tiendas. Mira la lista de juegos que tus tiendas ya guardan en tu PC.
+No. One More Coin no te pide nada: ni cuentas, ni contraseñas, ni correo, ni iniciar sesión en tus tiendas. Mira la lista de juegos que tus tiendas ya guardan en tu PC.
 </details>
 
 <details><summary><b>¿Qué sale de mi PC?</b></summary>
@@ -287,7 +296,7 @@ Para completar cada juego (portada, año, nota…) pregunta **por su nombre** a 
 
 <details><summary><b>¿Puede darme problemas con los antitrampas (Vanguard, Easy Anti-Cheat…)?</b></summary>
 
-No debería: Insert Coin **no se mete en los juegos**. No lee su memoria, no pone nada encima de la pantalla del juego y no instala controladores. Solo lee los archivos donde las tiendas apuntan qué tienes y, para jugar, se lo pide a la tienda oficial, igual que otros programas de biblioteca conocidos.
+No debería: One More Coin **no se mete en los juegos**. No lee su memoria, no pone nada encima de la pantalla del juego y no instala controladores. Solo lee los archivos donde las tiendas apuntan qué tienes y, para jugar, se lo pide a la tienda oficial, igual que otros programas de biblioteca conocidos.
 </details>
 
 <details><summary><b>¿Puede romper algo de mis tiendas o de mis juegos?</b></summary>
@@ -297,7 +306,7 @@ No. Solo **lee** sus archivos, nunca los cambia. Y para jugar o instalar, se lo 
 
 <details><summary><b>¿Cómo me recomienda juegos? ¿Me espía?</b></summary>
 
-No. En «🏷️ Ofertas → ✨ Para ti», Insert Coin mira **en tu PC** tus horas de juego y los juegos que ya tienes: te propone los de las **sagas que juegas** que aún te faltan y ofertas de los **géneros a los que más horas dedicas**. Tu biblioteca y tus horas no salen de tu PC: solo pregunta a Wikidata, por su código, de qué saga o género es cada juego.
+No. En «🏷️ Ofertas → ✨ Para ti», One More Coin mira **en tu PC** tus horas de juego y los juegos que ya tienes: te propone los de las **sagas que juegas** que aún te faltan y ofertas de los **géneros a los que más horas dedicas**. Tu biblioteca y tus horas no salen de tu PC: solo pregunta a Wikidata, por su código, de qué saga o género es cada juego.
 </details>
 
 <details><summary><b>¿Qué son las claves de RAWG y SteamGridDB? ¿Son seguras?</b></summary>
@@ -327,7 +336,7 @@ Sí, desde un **Intel Core i3 de 1.ª generación con 4 GB** de memoria, con **W
 
 <details><summary><b>¿Dónde se guardan mis cosas y qué pasa si la desinstalo?</b></summary>
 
-Tus niveles, críticas, deseados y ajustes se guardan solo en tu PC. Si la desinstalas, se quedan guardados por si vuelves; para borrarlos del todo, elimina la carpeta `%APPDATA%\Insert Coin`.
+Tus niveles, críticas, deseados y ajustes se guardan solo en tu PC. Si la desinstalas, se quedan guardados por si vuelves; para borrarlos del todo, elimina la carpeta `%APPDATA%\One More Coin`.
 </details>
 
 <details><summary><b>¿Cómo se actualiza?</b></summary>
@@ -349,8 +358,8 @@ No. No tiene publicidad, no instala nada más y no necesita permisos de administ
 
 <div align="center">
 
-Aquí están los **instaladores** y la información pública de Insert Coin; el código de la aplicación no es público.<br>
-Insert Coin es gratis y se ofrece «tal cual». Las marcas, portadas y textos de los juegos y las tiendas son de sus dueños; Insert Coin no está afiliada a ninguna.
+Aquí están los **instaladores** y la información pública de One More Coin; el código de la aplicación no es público.<br>
+One More Coin es gratis y se ofrece «tal cual». Las marcas, portadas y textos de los juegos y las tiendas son de sus dueños; One More Coin no está afiliada a ninguna.
 
 **Un proyecto personal de JesusJacky** · © 2026 JesusJacky. Todos los derechos reservados ([LICENCIA](LICENSE)) · 🪙 *Inserta una moneda para continuar…*
 

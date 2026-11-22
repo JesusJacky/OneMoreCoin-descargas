@@ -1,35 +1,43 @@
-# Insert Coin · novedades
+# One More Coin · novedades
 
 ## 🆕 Lo último
+
+### 0.4.0 · Insert Coin ahora se llama One More Coin (22/11/2026 · Beta)
+- **✨ Nuevo:** 🪙 **Nombre nuevo: One More Coin**. Es **la misma app**: tu biblioteca, tus niveles, tus críticas, tus deseados, tus claves y tus ajustes se quedan tal cual (se mudan solos la primera vez que la abres). El cambio es porque el nombre «Insert Coin» ya lo tenía registrado otra empresa para software y videojuegos.
+- **⬆️ Mejora:** El título de la biblioteca ahora es **ONE MORE COIN**, parpadeando como siempre, con **LIBRARY** debajo. El logo de la moneda entrando en la ranura no cambia.
+- **⬆️ Mejora:** La página de descargas, el instalador y los vídeos también llevan el nombre nuevo. Los enlaces antiguos de GitHub siguen llevando a la página nueva.
+- **⬆️ Mejora:** La **desarrolladora y la editora** de cada juego también se sacan de la tienda de Steam cuando Wikidata no las sabe, así que salen en muchos más juegos.
+- **🔧 Arreglo:** En «🏷️ Ofertas» con «Todas las tiendas», el mismo juego ya no sale repetido una vez por tienda: sale una sola vez, con la oferta más barata y «(y en N tiendas más)».
+- **✨ Nuevo:** Preguntas frecuentes nuevas en 🪙 → ❓ Preguntas: cómo te recomienda juegos (sin espiarte), cómo te avisa de ofertas y juegos gratis, y qué son las claves de RAWG y SteamGridDB (y por qué son seguras). En Ajustes, cada clave explica qué es.
+
+## 📜 Versiones anteriores
 
 ### 0.3.5 · Recomendados para ti (21/11/2026 · Beta)
 - **✨ Nuevo:** Nueva pestaña **✨ Para ti** en Ofertas: juegos de las **sagas que ya juegas** y que aún no tienes (si tienes Dark Souls III, el resto de la saga), con los que están **en oferta** destacados arriba, y ofertas de los **géneros a los que más horas dedicas**, mezclados y distintos cada día.
 - **✨ Nuevo:** Pestaña **❓ Preguntas** en el menú 🪙: las preguntas frecuentes (¿qué gano yo?, ¿puede dar problemas con los antitrampas?, ¿ralentiza mis juegos?, ¿qué pasa si la desinstalo?…) y un enlace a todas las de la página de descargas.
 - **⬆️ Mejora:** Si tienes la remasterización de un juego, ya no se te recomienda el original (y al revés).
 
-## 📜 Versiones anteriores
-
 ### 0.3.4 · Ofertas por secciones y escaneo exprés (21/11/2026 · Beta)
 - **✨ Nuevo:** La ventana de **🏷️ Ofertas**, renovada y por secciones: **🎁 Gratis** (juegos gratis para siempre en cualquier plataforma, con filtro), **🏷️ Ofertas** (las mejores rebajas de Steam, GOG, Humble, Fanatical, Epic… con **filtro por tienda** y orden), **📦 Bundles** (muy pronto) y **⭐ Tus deseados**.
 - **✨ Nuevo:** **Rebajas destacadas de Steam** en euros, con la cuenta atrás de cuándo terminan (ideal para las ofertas de un día o de fin de semana).
 - **✨ Nuevo:** Aviso cuando aparece en tu biblioteca un juego que tenías en tu **lista de deseados**: puedes quitarlo de la lista, o pedir que no te avise más de ese juego. Se puede apagar en 🪙 → Ajustes → Avisos.
 - **⬆️ Mejora:** El **primer escaneo** es muchísimo más rápido: el año, los géneros y el estudio de cada juego (Wikidata) se piden de 50 en 50 en vez de uno a uno. Lo que antes podía tardar más de una hora ahora son unos minutos.
-- **🔧 Arreglo:** Wikimedia frenaba a Insert Coin a 10 consultas por minuto porque no se identificaba con una web de contacto. Ahora lo hace con su página de descargas (se identifica la app, nunca a ti) y puede ir a velocidad normal.
+- **🔧 Arreglo:** Wikimedia frenaba a One More Coin a 10 consultas por minuto porque no se identificaba con una web de contacto. Ahora lo hace con su página de descargas (se identifica la app, nunca a ti) y puede ir a velocidad normal.
 - **⬆️ Mejora:** Desaparece el paso «Wikipedia» del escaneo: ya no hacía falta.
 - **🔧 Arreglo:** Las **notificaciones de Windows** (versión nueva disponible, ofertas de tus deseados) no llegaban a salir en la app instalada. Ahora sí.
-- **⬆️ Mejora:** Los textos legales pasan a la versión 4: avisan de que Insert Coin está en **fase beta** y de que en el futuro sus funciones o condiciones pueden cambiar o limitarse (siempre con aviso antes). Se piden aceptar una vez más.
-- **⬆️ Mejora:** Aviso de **autoría**: en «Acerca de» y en el aviso legal consta que Insert Coin es una obra original de JesusJacky, con todos los derechos reservados.
+- **⬆️ Mejora:** Los textos legales pasan a la versión 4: avisan de que One More Coin está en **fase beta** y de que en el futuro sus funciones o condiciones pueden cambiar o limitarse (siempre con aviso antes). Se piden aceptar una vez más.
+- **⬆️ Mejora:** Aviso de **autoría**: en «Acerca de» y en el aviso legal consta que One More Coin es una obra original de JesusJacky, con todos los derechos reservados.
 - **⬆️ Mejora:** Los juegos con el mismo nombre ya no se confunden al buscar su año y su estudio (por ejemplo, el God of War de 2018 ya no toma los datos del de 2005).
 
 ### 0.3.3 · La colección de clásicos (20/11/2026 · Beta)
 - **✨ Nuevo:** **🏛️ Colección de clásicos**: más de 230 juegos que hicieron historia, de Space Invaders a Baldur's Gate 3. Los que aún no tienes salen en tu biblioteca **apagados y sin portada**, con un 🔒; en cuanto consigas uno, aparece con su portada y su ✓. El panel dice cuántos llevas y desde la ficha puedes añadirlo a **deseados** o buscarlo en Steam.
-- **✨ Nuevo:** Cada clásico tiene su **Historia**, escrita para Insert Coin: qué cambió, quién lo hizo y por qué se recuerda.
+- **✨ Nuevo:** Cada clásico tiene su **Historia**, escrita para One More Coin: qué cambió, quién lo hizo y por qué se recuerda.
 - **✨ Nuevo:** **Remakes, remasterizaciones y reinvenciones** (Dead Space, Resident Evil 4, Tomb Raider, Age of Empires II: Definitive Edition…) comparten la historia del original y suman **la suya propia** justo debajo. Y cuentan para la colección: tener el remake es tener el clásico.
 - **✨ Nuevo:** Insignia **GOTY** en la carta y la ficha de los ganadores del Juego del Año, y medalla de **Coleccionista de clásicos** en tu perfil.
 - **⬆️ Mejora:** Los textos de las fichas ya no se copian de la Wikipedia (solo se usa para enlazar el juego con sus datos de Wikidata: año, géneros y estudio).
 
 ### 0.3.2 · El buzón llega de verdad (20/11/2026 · Beta)
-- **✨ Nuevo:** El **buzón de sugerencias** ahora manda tus ideas y avisos de fallo directamente al creador de Insert Coin, sin que tengas que poner tu correo. También se guarda una copia en tu PC.
+- **✨ Nuevo:** El **buzón de sugerencias** ahora manda tus ideas y avisos de fallo directamente al creador de One More Coin, sin que tengas que poner tu correo. También se guarda una copia en tu PC.
 - **⬆️ Mejora:** Los **textos legales** pasan a la versión 3 (explican qué se envía con el buzón y añaden el correo de contacto): se piden aceptar una vez más.
 
 ### 0.3.1 · Barra ordenada y precios más claros (20/11/2026 · Beta)
@@ -39,20 +47,20 @@
 - **⬆️ Mejora:** Las ofertas se buscan como mucho cada 6 horas (salvo que cambies tu lista de deseados), para no abusar del servicio que las da.
 
 ### 0.3.0 · Modo sofá, deseados y ofertas (20/11/2026 · Beta)
-- **✨ Nuevo:** **🛋️ Modo sofá**: pantalla completa para jugar desde el sofá con **mando** (Xbox, PlayStation…) o teclado. Filas de juegos, el elegido en grande con sus capturas de fondo, tirada del dado, **sonidos retro** y pantalla de «INSERT COIN» si lo dejas quieto.
-- **✨ Nuevo:** **⭐ Lista de deseados**: busca y añade los juegos que quieres; Insert Coin te dice su precio en Steam, su mejor oferta y lo más barato que ha estado.
+- **✨ Nuevo:** **🛋️ Modo sofá**: pantalla completa para jugar desde el sofá con **mando** (Xbox, PlayStation…) o teclado. Filas de juegos, el elegido en grande con sus capturas de fondo, tirada del dado, **sonidos retro** y pantalla de «ONE MORE COIN» si lo dejas quieto.
+- **✨ Nuevo:** **⭐ Lista de deseados**: busca y añade los juegos que quieres; One More Coin te dice su precio en Steam, su mejor oferta y lo más barato que ha estado.
 - **✨ Nuevo:** **🏷️ Ofertas**: juegos gratis ahora mismo en PC, tus deseados rebajados y juegos que ya tienes muy baratos en otra tienda. Punto amarillo y notificación cuando algo de tu lista baja o se regala.
 - **✨ Nuevo:** **🔎 Analizar mi equipo** (menú 🪙 → Ajustes): procesador, memoria, gráfica y sistema, y si te conviene el modo ligero.
 - **⬆️ Mejora:** **Modo ligero** más fino: solo quita lo que de verdad pesa en un PC antiguo (desenfoques, capas de efectos a pantalla completa y animaciones que no paran) y no dibuja las cartas que no se ven.
 - **⬆️ Mejora:** El **panel izquierdo** vuelve a ser solo de filtros y apariencia. «Añadir un juego», «Deseados», «Ofertas», «Perfil» y «Sofá» son botones de arriba; «¿Cómo se lee tu biblioteca?» está en el menú 🪙 → Acerca de.
 - **🔧 Arreglo:** Se pueden añadir a mano juegos de las tiendas nuevas (Amazon, itch.io, Rockstar, Humble, Legacy Games).
 
-### 0.2.0 · Juega e instala desde Insert Coin (20/11/2026 · Beta)
-- **✨ Nuevo:** Botón **▶ Jugar** en los juegos instalados: Insert Coin le pide a su tienda (Steam, Epic, GOG Galaxy, EA, Ubisoft, Battle.net, Riot…) que lo abra, como si lo hicieras tú desde ella.
+### 0.2.0 · Juega e instala desde One More Coin (20/11/2026 · Beta)
+- **✨ Nuevo:** Botón **▶ Jugar** en los juegos instalados: One More Coin le pide a su tienda (Steam, Epic, GOG Galaxy, EA, Ubisoft, Battle.net, Riot…) que lo abra, como si lo hicieras tú desde ella.
 - **✨ Nuevo:** Botón **⬇ Instalar** en los que no tienes instalados: abre la instalación oficial de su tienda, sin tener que buscarlo.
 - **✨ Nuevo:** **Más tiendas**: Amazon Games, itch.io, la app de Xbox, Rockstar Games Launcher, Humble App y Legacy Games, y la EA app y Ubisoft Connect por su cuenta (sin necesitar GOG Galaxy).
-- **✨ Nuevo:** **Tu perfil de jugador**: qué tipo de juegos juegas, en qué porcentaje de tus horas, y un título según cómo juegas. Insert Coin va apuntando tus horas en cada escaneo para enseñarte también lo último que has jugado.
-- **✨ Nuevo:** Menú **🪙 Insert Coin** arriba con la versión a la vista: Novedades, Ajustes, Actualizaciones y Acerca de.
+- **✨ Nuevo:** **Tu perfil de jugador**: qué tipo de juegos juegas, en qué porcentaje de tus horas, y un título según cómo juegas. One More Coin va apuntando tus horas en cada escaneo para enseñarte también lo último que has jugado.
+- **✨ Nuevo:** Menú **🪙 One More Coin** arriba con la versión a la vista: Novedades, Ajustes, Actualizaciones y Acerca de.
 - **✨ Nuevo:** **Actualizaciones**: la app mira sola si hay versión nueva, te avisa, la descarga cuando quieras y la instala reiniciándose.
 - **✨ Nuevo:** **Modo ligero** en Ajustes para PCs antiguos o portátiles justos: quita desenfoques, animaciones y efectos de pantalla. Se activa solo en equipos muy modestos.
 - **✨ Nuevo:** Los textos legales pasan a la versión 2 (búsqueda de actualizaciones y botones de jugar): se piden aceptar una vez más.
@@ -63,7 +71,7 @@
 - **🔧 Arreglo:** La primera vez que se abría la app, la biblioteca podía salir vacía hasta pulsar «Ver los cambios».
 
 ### 0.1.0 · Primera versión de escritorio (19/11/2026 · Beta)
-- **✨ Nuevo:** La biblioteca de Insert Coin en una **app de escritorio** con su icono, sin ventanas negras ni archivos `.bat`.
+- **✨ Nuevo:** La biblioteca de One More Coin en una **app de escritorio** con su icono, sin ventanas negras ni archivos `.bat`.
 - **✨ Nuevo:** **Escaneo automático** al abrir y cada hora, y botón «Escanear». El progreso se ve en un panel flotante que no bloquea.
 - **✨ Nuevo:** **Claves para más datos** (RAWG y SteamGridDB) con sus pasos, «Guardar y probar» y guardado cifrado.
 - **✨ Nuevo:** Lee Steam, GOG Galaxy (con EA y Ubisoft), Epic, Battle.net y Riot. Versiones de prueba para Linux y Mac (solo Steam).

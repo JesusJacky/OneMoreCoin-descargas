@@ -1,11 +1,11 @@
 ==========================================================
-  INSERT COIN · tu biblioteca de juegos en un mismo sitio
+  ONE MORE COIN · tu biblioteca de juegos en un mismo sitio
   Versión BETA (de prueba): gratis, y puede tener fallos.
 ==========================================================
 
 QUÉ ES
 ------
-Insert Coin junta en un solo sitio todos tus juegos de Steam, Epic Games, GOG,
+One More Coin junta en un solo sitio todos tus juegos de Steam, Epic Games, GOG,
 EA, Ubisoft, Battle.net y Riot (y también Amazon Games, itch.io, Rockstar, la
 app de Xbox, Humble y Legacy Games, en prueba).
 
@@ -16,7 +16,7 @@ varias tiendas, te lo junta en una sola carta. Y si no sabes a qué jugar, el
 test de ánimo o la tirada del dado te echan una mano.
 
 Y desde la propia app puedes JUGAR (▶) a los que tienes instalados o
-INSTALAR (⬇) los que no: Insert Coin se lo pide a su tienda oficial, como si lo
+INSTALAR (⬇) los que no: One More Coin se lo pide a su tienda oficial, como si lo
 hicieras tú desde ella (la tienda comprueba que es tuyo, cuenta tus horas y
 guarda tus partidas). En «Tu perfil de jugador» ves qué tipo de juegos juegas
 y qué título te has ganado.
@@ -50,34 +50,34 @@ Recomendados: macOS 14 Sonoma o más nuevo · chip M2 o posterior.
 
 CÓMO INSTALARLA
 ---------------
-1. Haz doble clic en «Insert Coin - Instalador X.Y.Z.exe».
+1. Haz doble clic en «One More Coin - Instalador X.Y.Z.exe».
 2. AVISO NORMAL: Windows puede enseñar una pantalla azul que dice
    «Windows protegió su PC». Sale porque la app no tiene un certificado de
    firma (cuesta dinero cada año y es un proyecto personal y gratuito), no
    porque tenga nada malo. Para seguir, pulsa «Más información» y después
    «Ejecutar de todos modos».
-3. Sigue los pasos del instalador. Se crea un acceso directo «Insert Coin».
+3. Sigue los pasos del instalador. Se crea un acceso directo «One More Coin».
 
 EN LINUX (versión de prueba)
-- Descarga «Insert-Coin-X.Y.Z-Linux.AppImage», dale permiso para ejecutarse
+- Descarga «One-More-Coin-X.Y.Z-Linux.AppImage», dale permiso para ejecutarse
   (clic derecho → Propiedades → Permitir ejecutar como programa, o en una
-  terminal: chmod +x Insert-Coin-*.AppImage) y ábrelo con doble clic.
+  terminal: chmod +x One-More-Coin-*.AppImage) y ábrelo con doble clic.
 - En Linux, por ahora, solo se lee la biblioteca de Steam (las demás tiendas
   no tienen versión oficial para Linux). Los juegos de otras tiendas se pueden
   añadir a mano.
 
 EN MAC (versión de prueba)
-- Abre «Insert-Coin-X.Y.Z-Mac.dmg» y arrastra Insert Coin a Aplicaciones.
+- Abre «One-More-Coin-X.Y.Z-Mac.dmg» y arrastra One More Coin a Aplicaciones.
 - Como no tiene certificado de Apple, la primera vez el Mac la bloquea: abre
   Ajustes del Sistema → Privacidad y seguridad → «Abrir igualmente». Si dice que
   la app «está dañada», abre la Terminal y escribe:
-      xattr -cr "/Applications/Insert Coin.app"
+      xattr -cr "/Applications/One More Coin.app"
   y vuelve a abrirla (no está dañada: es el mismo aviso por no tener firma).
 - En Mac, por ahora, solo se lee la biblioteca de Steam.
 
 LA PRIMERA VEZ
 --------------
-- Insert Coin lee tu biblioteca en tu PC y después busca portadas, notas y
+- One More Coin lee tu biblioteca en tu PC y después busca portadas, notas y
   descripciones. La primera vez puede tardar bastante (hay que ir despacio para
   que los servicios no corten). Puedes usar la app mientras tanto: verás el
   progreso en un panel pequeño que puedes mover, minimizar o cerrar.
@@ -85,7 +85,7 @@ LA PRIMERA VEZ
 
 ACTUALIZACIONES
 ---------------
-- Desde la versión 0.2.0, Insert Coin mira sola si hay versión nueva y te avisa
+- Desde la versión 0.2.0, One More Coin mira sola si hay versión nueva y te avisa
   (un punto amarillo en el botón de la moneda, arriba). Desde ese menú, en
   «Actualizaciones», la descargas y la instalas: la app se cierra, se actualiza
   y vuelve a abrirse. Tu biblioteca, tus notas y tus claves se quedan como
@@ -112,11 +112,11 @@ sacarlas y dónde pegarlas. Se guardan cifradas en tu PC.
 
 LEGAL
 -----
-Insert Coin es gratis y se ofrece «tal cual». Las marcas, portadas y textos de
-los juegos y las tiendas son de sus dueños; Insert Coin no está afiliada a
+One More Coin es gratis y se ofrece «tal cual». Las marcas, portadas y textos de
+los juegos y las tiendas son de sus dueños; One More Coin no está afiliada a
 ninguna. El aviso legal, la privacidad y las condiciones de uso completos están
 dentro de la app (botón «Legal»).
 
 QUIÉN ESTÁ DETRÁS
 -----------------
-Insert Coin es un proyecto personal de JesusJacky.
+One More Coin es un proyecto personal de JesusJacky.
