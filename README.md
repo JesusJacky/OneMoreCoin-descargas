@@ -50,11 +50,10 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 - **Está en fase beta:** funciona, pero puede tener algún fallo. Si ves uno, cuéntalo desde «💬 Sugerencias» en la propia app.
 
 <!-- NOVEDADES:INICIO -->
-## 🆕 Lo nuevo en la versión 0.4.1 · Ya no queda nada con el nombre antiguo
+## 🆕 Lo nuevo en la versión 0.4.2 · One More Coin de arriba abajo
 
-- **🔧 Arreglo:** La app se instala en una carpeta llamada **One More Coin**: la carpeta antigua «Insert Coin» se borra sola al actualizar, y los accesos directos del escritorio y del menú Inicio apuntan a la nueva.
-- **🔧 Arreglo:** Tus datos ya no se quedan repetidos: cuando todo lo tuyo (biblioteca, niveles, críticas, deseados y claves) está comprobado en la carpeta nueva, se borra la copia antigua. También se borra el instalador viejo que guardaba el actualizador. En total, unos cientos de MB que vuelves a tener libres.
-- **⬆️ Mejora:** Correo nuevo de contacto: **jesusjacky.onemorecoin@gmail.com**. El buzón de 💬 Sugerencias ya envía ahí.
+- **⬆️ Mejora:** Windows ya reconoce la app solo como **One More Coin** (identificador interno nuevo). Al actualizar se quita sola la instalación anterior, sin tocar tus datos, y no quedan dos apps en «Aplicaciones».
+- **🔧 Arreglo:** Se borra la carpeta vacía que dejaba el instalador anterior.
 
 **[📜 Todas las novedades, versión a versión →](NOVEDADES.md)**
 <!-- NOVEDADES:FIN -->

@@ -2,15 +2,19 @@
 
 ## 🆕 Lo último
 
-### 0.4.1 · Ya no queda nada con el nombre antiguo (22/11/2026 · Beta)
-- **🔧 Arreglo:** La app se instala en una carpeta llamada **One More Coin**: la carpeta antigua «Insert Coin» se borra sola al actualizar, y los accesos directos del escritorio y del menú Inicio apuntan a la nueva.
-- **🔧 Arreglo:** Tus datos ya no se quedan repetidos: cuando todo lo tuyo (biblioteca, niveles, críticas, deseados y claves) está comprobado en la carpeta nueva, se borra la copia antigua. También se borra el instalador viejo que guardaba el actualizador. En total, unos cientos de MB que vuelves a tener libres.
-- **⬆️ Mejora:** Correo nuevo de contacto: **jesusjacky.onemorecoin@gmail.com**. El buzón de 💬 Sugerencias ya envía ahí.
+### 0.4.2 · One More Coin de arriba abajo (22/11/2026 · Beta)
+- **⬆️ Mejora:** Windows ya reconoce la app solo como **One More Coin** (identificador interno nuevo). Al actualizar se quita sola la instalación anterior, sin tocar tus datos, y no quedan dos apps en «Aplicaciones».
+- **🔧 Arreglo:** Se borra la carpeta vacía que dejaba el instalador anterior.
 
 ## 📜 Versiones anteriores
 
-### 0.4.0 · Insert Coin ahora se llama One More Coin (22/11/2026 · Beta)
-- **✨ Nuevo:** 🪙 **Nombre nuevo: One More Coin**. Es **la misma app**: tu biblioteca, tus niveles, tus críticas, tus deseados, tus claves y tus ajustes se quedan tal cual (se mudan solos la primera vez que la abres). El cambio es porque el nombre «Insert Coin» ya lo tenía registrado otra empresa para software y videojuegos.
+### 0.4.1 · Ya no queda nada con el nombre antiguo (22/11/2026 · Beta)
+- **🔧 Arreglo:** La app se instala en una carpeta llamada **One More Coin**: la carpeta antigua se borra sola al actualizar, y los accesos directos del escritorio y del menú Inicio apuntan a la nueva.
+- **🔧 Arreglo:** Tus datos ya no se quedan repetidos: cuando todo lo tuyo (biblioteca, niveles, críticas, deseados y claves) está comprobado en la carpeta nueva, se borra la copia antigua. También se borra el instalador viejo que guardaba el actualizador. En total, unos cientos de MB que vuelves a tener libres.
+- **⬆️ Mejora:** Correo nuevo de contacto: **jesusjacky.onemorecoin@gmail.com**. El buzón de 💬 Sugerencias ya envía ahí.
+
+### 0.4.0 · Nombre nuevo: One More Coin (22/11/2026 · Beta)
+- **✨ Nuevo:** 🪙 **Nombre nuevo: One More Coin**. Es **la misma app**: tu biblioteca, tus niveles, tus críticas, tus deseados, tus claves y tus ajustes se quedan tal cual (se mudan solos la primera vez que la abres). El cambio es porque el nombre anterior ya lo tenía registrado otra empresa para software y videojuegos.
 - **⬆️ Mejora:** El título de la biblioteca ahora es **ONE MORE COIN**, parpadeando como siempre, con **LIBRARY** debajo. El logo de la moneda entrando en la ranura no cambia.
 - **⬆️ Mejora:** La página de descargas, el instalador y los vídeos también llevan el nombre nuevo. Los enlaces antiguos de GitHub siguen llevando a la página nueva.
 - **⬆️ Mejora:** La **desarrolladora y la editora** de cada juego también se sacan de la tienda de Steam cuando Wikidata no las sabe, así que salen en muchos más juegos.
