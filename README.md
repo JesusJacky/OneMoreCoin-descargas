@@ -50,16 +50,14 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 - **Está en fase beta:** funciona, pero puede tener algún fallo. Si ves uno, cuéntalo desde «💬 Sugerencias» en la propia app.
 
 <!-- NOVEDADES:INICIO -->
-## 🆕 Lo nuevo en la versión 0.4.3 · Más de 60 estilos
+## 🆕 Lo nuevo en la versión 0.4.4 · Encuentra tus launchers estén donde estén
 
-- **✨ Nuevo:** 🎨 **41 estilos nuevos**, y ya hay más de 60. Cada uno trae su propia letra, sus colores y su efecto al pasar el ratón por las portadas, para que se reconozca de un vistazo qué representa.
-- **✨ Nuevo:** 🪟 **Ordenadores:** Ventana XP, Ventana 7, Ventana 10, Ventana 11, Pingüino y 🌈 Modo RGB, con un fondo que va pasando por todos los colores.
-- **✨ Nuevo:** 🎮 **Consolas y portátiles:** Estación 1, 2, 3, 4, 5 y portátil, Xcaja, Portátil Color, Portátil Avanzada y Portátil 3D.
-- **✨ Nuevo:** 🕹️ **Juegos:** Ciudad del vicio, Isla tranquila, Simulación de vida, Determinación, Tetrabloques, Tuberías, Monstruos de bolsillo, Has muerto, Tierras fronterizas, Edad de imperios, Arenas del tiempo, GT, Horda y Alianza y Martillo de guerra 40K.
-- **✨ Nuevo:** ⛩️ **Anime:** Monstruos digitales, Cazadores de demonios (con la respiración del agua), Ataque titánico (con el gigante colosal) y Esferas del dragón.
-- **✨ Nuevo:** 🎬 **Cine y series:** Castillo de cuento, Superhéroes, Maratón de series, Mundo del revés, Escuela de magia y Familia amarilla. Y además, 📞 Videollamada.
-- **⬆️ Mejora:** La lista de Apariencia va ahora **por grupos** (Principales, Fantasía y aventura, Arte, Ordenadores, Consolas, Portátiles, Juegos, Anime, Chat y llamadas, Cine y series), para encontrar cada estilo enseguida.
-- **🔧 Arreglo:** En los estilos claros ya se lee el letrero «Juego del Año» del recuadro dorado de la ficha.
+- **⬆️ Mejora:** 🔎 El escaneo ya no da por hecho dónde están las cosas. Primero localiza cada launcher con la lista de programas instalados de Windows (en el disco que sea) y lo enseña en el panel del escaneo; si alguno no aparece, lo busca por los discos empezando por el del sistema. Después lee sus juegos.
+- **🔧 Arreglo:** Si Windows está instalado en otra letra que no sea C:, ahora sí se encuentran GOG Galaxy, Epic, Battle.net, Riot y EA (antes se buscaban siempre en C:).
+- **🔧 Arreglo:** Los juegos de la app de Xbox se buscan en todos los discos del PC, no solo de la C a la J.
+- **✨ Nuevo:** 🐧 **Linux** (en pruebas): además de Steam, lee **Heroic** (tus juegos de Epic, GOG y Amazon), **Lutris** e **itch.io**, con sus horas y el botón Jugar.
+- **✨ Nuevo:** 🍎 **Mac** (en pruebas): además de Steam, lee **GOG Galaxy**, **Epic**, **Battle.net**, **itch.io** y **Heroic**.
+- **✨ Nuevo:** En Windows también se leen los juegos de Heroic, para quien lo use.
 
 **[📜 Todas las novedades, versión a versión →](NOVEDADES.md)**
 <!-- NOVEDADES:FIN -->
@@ -246,7 +244,7 @@ Dónde se ponen: **menú 🪙 → Ajustes → «Claves para más datos»**, con 
 | **Memoria** | 4 GB | 8 GB |
 | **Disco** | 500 MB libres | 500 MB libres en un SSD |
 | **Pantalla** | 1280 × 720 | 1920 × 1080 |
-| **Para leer tu biblioteca** | Steam instalado (por ahora solo se lee Steam) | Lo mismo |
+| **Para leer tu biblioteca** | Steam, Heroic (Epic, GOG y Amazon), Lutris o itch.io. Lo que no es Steam está en pruebas | Lo mismo |
 
 ### 🍎 Mac (versión de prueba)
 
@@ -257,7 +255,7 @@ Dónde se ponen: **menú 🪙 → Ajustes → «Claves para más datos»**, con 
 | **Memoria** | 8 GB | 8 GB o más |
 | **Disco** | 500 MB libres | 500 MB libres |
 | **Pantalla** | 1280 × 800 | La del propio Mac |
-| **Para leer tu biblioteca** | Steam instalado (por ahora solo se lee Steam) | Lo mismo |
+| **Para leer tu biblioteca** | Steam, GOG Galaxy, Epic, Battle.net, itch.io o Heroic. Lo que no es Steam está en pruebas | Lo mismo |
 
 > En equipos justos, activa el **Modo ligero** (menú 🪙 → Ajustes); el botón **«Analizar mi equipo»** te dice si te conviene.
 > En todos los sistemas hace falta **internet** para completar los datos de los juegos y buscar ofertas.
@@ -269,8 +267,8 @@ Ve a **[la última versión](../../releases/latest)** y descarga la de tu sistem
 | Sistema | Archivo | |
 |---|---|---|
 | 🪟 **Windows 10 / 11** (64 bits) | `One-More-Coin-Instalador-X.Y.Z.exe` | ✅ Recomendada |
-| 🐧 Linux | `One-More-Coin-X.Y.Z-Linux.AppImage` | 🧪 Prueba (solo lee Steam) |
-| 🍎 Mac (chip Apple) | `One-More-Coin-X.Y.Z-Mac.dmg` | 🧪 Prueba (solo lee Steam) |
+| 🐧 Linux | `One-More-Coin-X.Y.Z-Linux.AppImage` | 🧪 Prueba (lee Steam, Heroic, Lutris e itch.io) |
+| 🍎 Mac (chip Apple) | `One-More-Coin-X.Y.Z-Mac.dmg` | 🧪 Prueba (lee Steam, GOG Galaxy, Epic, Battle.net, itch.io y Heroic) |
 
 > [!NOTE]
 > **¿Sale «Windows protegió su PC»?** Es normal: la app no tiene un certificado de firma (cuesta dinero cada año y esto es un proyecto personal y gratuito), no porque tenga nada malo. Pulsa **«Más información» → «Ejecutar de todos modos»**.

@@ -38,14 +38,14 @@ Recomendados: Windows 10 u 11 de 64 bits · procesador de 4 núcleos o más ·
 Linux (versión de prueba)
 Mínimos:      64 bits (Ubuntu 22.04, Linux Mint 21, Debian 12, Fedora 38 o
               similares) · 2 núcleos · 4 GB de memoria · 500 MB libres ·
-              pantalla de 1280×720 · Steam instalado (solo se lee Steam).
+              pantalla de 1280×720 · Steam, Heroic, Lutris o itch.io.
 Recomendados: Ubuntu 24.04 o equivalente reciente · 4 núcleos · 8 GB ·
               disco SSD · pantalla de 1920×1080.
 
 Mac (versión de prueba)
 Mínimos:      macOS 12 Monterey · chip de Apple (M1 o posterior; los Mac con
               Intel no son compatibles) · 8 GB de memoria · 500 MB libres ·
-              Steam instalado (solo se lee Steam).
+              Steam, GOG Galaxy, Epic, Battle.net, itch.io o Heroic.
 Recomendados: macOS 14 Sonoma o más nuevo · chip M2 o posterior.
 
 CÓMO INSTALARLA
@@ -62,9 +62,9 @@ EN LINUX (versión de prueba)
 - Descarga «One-More-Coin-X.Y.Z-Linux.AppImage», dale permiso para ejecutarse
   (clic derecho → Propiedades → Permitir ejecutar como programa, o en una
   terminal: chmod +x One-More-Coin-*.AppImage) y ábrelo con doble clic.
-- En Linux, por ahora, solo se lee la biblioteca de Steam (las demás tiendas
-  no tienen versión oficial para Linux). Los juegos de otras tiendas se pueden
-  añadir a mano.
+- En Linux se leen Steam, Heroic (con tus juegos de Epic, GOG y Amazon),
+  Lutris e itch.io. Todo menos Steam está EN PRUEBAS: si te falta algún juego,
+  cuéntalo desde 💬 Sugerencias. Lo que no salga se puede añadir a mano.
 
 EN MAC (versión de prueba)
 - Abre «One-More-Coin-X.Y.Z-Mac.dmg» y arrastra One More Coin a Aplicaciones.
@@ -73,7 +73,9 @@ EN MAC (versión de prueba)
   la app «está dañada», abre la Terminal y escribe:
       xattr -cr "/Applications/One More Coin.app"
   y vuelve a abrirla (no está dañada: es el mismo aviso por no tener firma).
-- En Mac, por ahora, solo se lee la biblioteca de Steam.
+- En Mac se leen Steam, GOG Galaxy, Epic, Battle.net, itch.io y Heroic. Todo
+  menos Steam está EN PRUEBAS: si te falta algún juego, cuéntalo desde
+  💬 Sugerencias. Lo que no salga se puede añadir a mano.
 
 LA PRIMERA VEZ
 --------------

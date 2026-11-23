@@ -2,6 +2,16 @@
 
 ## 🆕 Lo último
 
+### 0.4.4 · Encuentra tus launchers estén donde estén (23/11/2026 · Beta)
+- **⬆️ Mejora:** 🔎 El escaneo ya no da por hecho dónde están las cosas. Primero localiza cada launcher con la lista de programas instalados de Windows (en el disco que sea) y lo enseña en el panel del escaneo; si alguno no aparece, lo busca por los discos empezando por el del sistema. Después lee sus juegos.
+- **🔧 Arreglo:** Si Windows está instalado en otra letra que no sea C:, ahora sí se encuentran GOG Galaxy, Epic, Battle.net, Riot y EA (antes se buscaban siempre en C:).
+- **🔧 Arreglo:** Los juegos de la app de Xbox se buscan en todos los discos del PC, no solo de la C a la J.
+- **✨ Nuevo:** 🐧 **Linux** (en pruebas): además de Steam, lee **Heroic** (tus juegos de Epic, GOG y Amazon), **Lutris** e **itch.io**, con sus horas y el botón Jugar.
+- **✨ Nuevo:** 🍎 **Mac** (en pruebas): además de Steam, lee **GOG Galaxy**, **Epic**, **Battle.net**, **itch.io** y **Heroic**.
+- **✨ Nuevo:** En Windows también se leen los juegos de Heroic, para quien lo use.
+
+## 📜 Versiones anteriores
+
 ### 0.4.3 · Más de 60 estilos (22/11/2026 · Beta)
 - **✨ Nuevo:** 🎨 **41 estilos nuevos**, y ya hay más de 60. Cada uno trae su propia letra, sus colores y su efecto al pasar el ratón por las portadas, para que se reconozca de un vistazo qué representa.
 - **✨ Nuevo:** 🪟 **Ordenadores:** Ventana XP, Ventana 7, Ventana 10, Ventana 11, Pingüino y 🌈 Modo RGB, con un fondo que va pasando por todos los colores.
@@ -11,8 +21,6 @@
 - **✨ Nuevo:** 🎬 **Cine y series:** Castillo de cuento, Superhéroes, Maratón de series, Mundo del revés, Escuela de magia y Familia amarilla. Y además, 📞 Videollamada.
 - **⬆️ Mejora:** La lista de Apariencia va ahora **por grupos** (Principales, Fantasía y aventura, Arte, Ordenadores, Consolas, Portátiles, Juegos, Anime, Chat y llamadas, Cine y series), para encontrar cada estilo enseguida.
 - **🔧 Arreglo:** En los estilos claros ya se lee el letrero «Juego del Año» del recuadro dorado de la ficha.
-
-## 📜 Versiones anteriores
 
 ### 0.4.2 · One More Coin de arriba abajo (22/11/2026 · Beta)
 - **⬆️ Mejora:** Windows ya reconoce la app solo como **One More Coin** (identificador interno nuevo). Al actualizar se quita sola la instalación anterior, sin tocar tus datos, y no quedan dos apps en «Aplicaciones».
