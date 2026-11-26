@@ -33,8 +33,9 @@
 
 ## 🛡️ ¿Es de fiar?
 
-**No te pide nada.** Ni cuentas, ni contraseñas, ni correo, ni iniciar sesión en tus tiendas. One More Coin solo **mira la lista de
-juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en una sola pantalla.
+**No te pide nada:** ni usuario, ni contraseña, ni iniciar sesión. Lee la lista de juegos que tus launchers ya guardan en tu PC, como quien
+lee los títulos de una estantería, y para jugar le pide al launcher que abra el juego. ¿Cómo funciona por dentro? Está explicado sin
+tecnicismos en las [preguntas frecuentes](#-preguntas-frecuentes).
 
 | ✅ Lo que hace | 🚫 Lo que no hace |
 |---|---|
@@ -42,6 +43,7 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 | Busca la portada, el año y la nota de cada juego **por su nombre** | No se mete en tus juegos mientras juegas (nada que pueda molestar a los antitrampas) |
 | Abre la **tienda oficial** cuando pulsas «Jugar» o «Instalar» | No lleva publicidad ni instala otros programas |
 | Se actualiza sola desde esta misma página | No hace falta tenerlo abierto para jugar |
+| Te enseña a qué juegas mirando qué programas tienes abiertos | No entra en tus cuentas: no puede comprar ni ver tus datos |
 
 - **¿Quién está detrás?** Una persona: **JesusJacky**, que lo hace como proyecto personal. Contacto: **jesusjacky.onemorecoin@gmail.com**.
 - **¿Por qué Windows avisa al instalarlo?** Porque la app aún no tiene un **certificado de firma** (cuestan dinero cada año y
@@ -50,14 +52,18 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 - **Está en fase beta:** funciona, pero puede tener algún fallo. Si ves uno, cuéntalo desde «💬 Sugerencias» en la propia app.
 
 <!-- NOVEDADES:INICIO -->
-## 🆕 Lo nuevo en la versión 0.4.4 · Encuentra tus launchers estén donde estén
+## 🆕 Lo nuevo en la versión 0.4.5 · A qué estás jugando, de un vistazo
 
-- **⬆️ Mejora:** 🔎 El escaneo ya no da por hecho dónde están las cosas. Primero localiza cada launcher con la lista de programas instalados de Windows (en el disco que sea) y lo enseña en el panel del escaneo; si alguno no aparece, lo busca por los discos empezando por el del sistema. Después lee sus juegos.
-- **🔧 Arreglo:** Si Windows está instalado en otra letra que no sea C:, ahora sí se encuentran GOG Galaxy, Epic, Battle.net, Riot y EA (antes se buscaban siempre en C:).
-- **🔧 Arreglo:** Los juegos de la app de Xbox se buscan en todos los discos del PC, no solo de la C a la J.
-- **✨ Nuevo:** 🐧 **Linux** (en pruebas): además de Steam, lee **Heroic** (tus juegos de Epic, GOG y Amazon), **Lutris** e **itch.io**, con sus horas y el botón Jugar.
-- **✨ Nuevo:** 🍎 **Mac** (en pruebas): además de Steam, lee **GOG Galaxy**, **Epic**, **Battle.net**, **itch.io** y **Heroic**.
-- **✨ Nuevo:** En Windows también se leen los juegos de Heroic, para quien lo use.
+- **✨ Nuevo:** 🕹️ En el panel izquierdo ves el juego al que estás **jugando ahora** y cuánto llevas en esta partida; si no juegas, tu **última partida**: cuánto duró y cuándo fue.
+- **✨ Nuevo:** 🔎 Buscar un juego (en Deseados o al añadirlo a mano) da resultados **mientras escribes** y entiende las erratas: «deat island» encuentra Dead Island.
+- **✨ Nuevo:** ➕ Al añadir un juego a mano eliges su launcher y, si quieres, su carpeta: así sabe si está instalado y dónde, y el botón lo abre en su launcher.
+- **✨ Nuevo:** 🎵 Las **bandas sonoras** que traen tus juegos (en su carpeta, como extra de GOG o compradas en Steam) salen en su ficha y en el nuevo filtro **Tipo**, que separa juegos, bandas sonoras, programas, editores, extras y versiones de prueba.
+- **⬆️ Mejora:** ⭐ Muchos más juegos con nota: la de los jugadores de Steam llega también a los que tienes en Epic, GOG y otras tiendas, y RAWG encuentra más juegos.
+- **⬆️ Mejora:** 🪟 La app recuerda el **tamaño y el sitio de la ventana** (y si estaba maximizada) al volver a abrirla.
+- **⬆️ Mejora:** Lo que instalas o desinstalas se ve en unos 10 minutos y la biblioteca se actualiza sola, sin recargar.
+- **🔧 Arreglo:** Los juegos de EA añadidos a mano tienen botón, y si el launcher no está instalado se avisa claro. Nombres de Epic con «?» arreglados.
+- **🔧 Arreglo:** 🔒 Seguridad: el servidor interno solo atiende a la propia app, y los programas del sistema se abren siempre desde su sitio real.
+- **⬆️ Mejora:** ❓ Preguntas nuevas que explican sin tecnicismos cómo funciona: cómo sabe qué juegos tienes **sin tu usuario ni tu contraseña**, qué pasa al pulsar «Jugar» y cómo comprobarlo tú mismo.
 
 **[📜 Todas las novedades, versión a versión →](NOVEDADES.md)**
 <!-- NOVEDADES:FIN -->
@@ -277,6 +283,47 @@ Instrucciones completas (también Linux y Mac) en el **[LEEME](LEEME.txt)** · Q
 
 ## ❓ Preguntas frecuentes
 
+<details><summary><b>🔑 ¿Cómo sabe One More Coin qué juegos tengo? ¿Necesita mi usuario y contraseña?</b></summary>
+
+No, nunca. Cada launcher (Steam, Epic, GOG, EA…) guarda en tu PC, para su propio uso, una lista de los juegos que tienes: cuáles están instalados, cuántas horas llevas o cuándo jugaste por última vez. One More Coin solo **lee esa lista**, como quien lee los títulos de los libros de una estantería sin necesitar la llave de la librería donde los compró.
+
+En esa lista no están tu usuario, tu contraseña, tu correo, tus métodos de pago ni tus mensajes, y One More Coin tampoco los busca. Por eso no tiene pantalla para iniciar sesión: no hay nada que poner.
+</details>
+
+<details><summary><b>▶️ Cuando pulso «Jugar» o «Instalar», ¿entra en mi cuenta del launcher?</b></summary>
+
+No. El botón funciona como un acceso directo del escritorio: le dice a tu launcher «abre este juego», usando el mismo enlace oficial que usa el propio launcher. A partir de ahí todo lo hace él, con la sesión que ya tienes abierta: comprueba que el juego es tuyo, lo arranca, cuenta tus horas y guarda tus partidas.
+
+Si el launcher te pide iniciar sesión, la contraseña se escribe **en el launcher**, nunca en One More Coin. Y si es para instalar, la ventana de instalación es la del launcher, y eres tú quien la confirma.
+</details>
+
+<details><summary><b>🚫 ¿Qué no puede hacer One More Coin con mis cuentas?</b></summary>
+
+Nada, porque no entra en ellas. No puede comprar, ni cambiar tu contraseña o tus datos, ni ver a tus amigos, tus mensajes o tu tarjeta, ni hablar en tu nombre. Tampoco modifica tus launchers ni tus juegos: solo lee.
+
+⚠️ Si alguna vez algo que dice ser One More Coin te pide la contraseña de Steam, de Epic o de cualquier otra tienda, **no es One More Coin**: no la des.
+</details>
+
+<details><summary><b>🕹️ ¿Cómo sabe a qué estoy jugando ahora?</b></summary>
+
+Mira qué programas tienes abiertos en tu PC, lo mismo que ves en el Administrador de tareas de Windows. Si uno está dentro de la carpeta de un juego tuyo, ese es el que estás jugando. Solo mira el nombre del programa y la hora a la que lo abriste. No se mete en el juego, no lee lo que pasa dentro y no envía nada a nadie: todo se queda en tu PC.
+</details>
+
+<details><summary><b>🔍 ¿Cómo puedo comprobar que no entra en mis cuentas?</b></summary>
+
+Desconecta internet y abre One More Coin: tu biblioteca, tus horas y tus juegos instalados siguen ahí, igual. Si la app tuviera que entrar en tus cuentas para saber qué tienes, sin internet no podría. Y verás que en ningún momento te ha pedido ni usuario ni contraseña.
+</details>
+
+<details><summary><b>🔌 ¿Tengo que tener los launchers abiertos o con la sesión iniciada?</b></summary>
+
+Para ver tu biblioteca, no: One More Coin lee la lista que cada launcher dejó en tu PC la última vez que lo usaste, aunque ahora esté cerrado. Solo para jugar o instalar hace falta el launcher, y es él mismo el que se abre cuando pulsas el botón. Si un juego que acabas de comprar no aparece, abre su launcher una vez para que actualice su lista.
+</details>
+
+<details><summary><b>📤 ¿Qué sale de mi PC?</b></summary>
+
+Solo lo necesario para completar la ficha de cada juego: su **nombre o su número en la tienda**, que se pregunta a servicios públicos (la tienda de Steam, GOG, Wikidata…) para traer la portada, el año, la nota de los jugadores o los extras que trae. Nunca se envía tu lista completa ni nada que diga quién eres, ni tus horas, ni tus cuentas. Lo único más es lo que tú escribas en «💬 Sugerencias», que llega sin tu nombre ni tu correo.
+</details>
+
 <details><summary><b>¿Qué gano yo usando One More Coin?</b></summary>
 
 Ver **todos tus juegos juntos** sin abrir seis tiendas, no volver a comprar algo que **ya tenías** en otra, redescubrir lo que compraste y **nunca estrenaste**, tener los juegos gratis y las ofertas en un solo sitio, y que el dado o el test te ayuden a decidir a qué jugar.
@@ -285,16 +332,6 @@ Ver **todos tus juegos juntos** sin abrir seis tiendas, no volver a comprar algo
 <details><summary><b>¿Es gratis?</b></summary>
 
 Sí. Es una **beta**: una versión de prueba, gratis, que puede tener algún fallo. Si ves uno, cuéntalo desde el botón «💬 Sugerencias» de la app.
-</details>
-
-<details><summary><b>¿Necesito una cuenta o dar mis contraseñas?</b></summary>
-
-No. One More Coin no te pide nada: ni cuentas, ni contraseñas, ni correo, ni iniciar sesión en tus tiendas. Mira la lista de juegos que tus tiendas ya guardan en tu PC.
-</details>
-
-<details><summary><b>¿Qué sale de mi PC?</b></summary>
-
-Para completar cada juego (portada, año, nota…) pregunta **por su nombre** a servicios públicos como la tienda de Steam o Wikidata. Lo único más es lo que tú escribas en «💬 Sugerencias», que llega sin tu nombre ni tu correo.
 </details>
 
 <details><summary><b>¿Puede darme problemas con los antitrampas (Vanguard, Easy Anti-Cheat…)?</b></summary>

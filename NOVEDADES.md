@@ -2,6 +2,20 @@
 
 ## 🆕 Lo último
 
+### 0.4.5 · A qué estás jugando, de un vistazo (26/11/2026 · Beta)
+- **✨ Nuevo:** 🕹️ En el panel izquierdo ves el juego al que estás **jugando ahora** y cuánto llevas en esta partida; si no juegas, tu **última partida**: cuánto duró y cuándo fue.
+- **✨ Nuevo:** 🔎 Buscar un juego (en Deseados o al añadirlo a mano) da resultados **mientras escribes** y entiende las erratas: «deat island» encuentra Dead Island.
+- **✨ Nuevo:** ➕ Al añadir un juego a mano eliges su launcher y, si quieres, su carpeta: así sabe si está instalado y dónde, y el botón lo abre en su launcher.
+- **✨ Nuevo:** 🎵 Las **bandas sonoras** que traen tus juegos (en su carpeta, como extra de GOG o compradas en Steam) salen en su ficha y en el nuevo filtro **Tipo**, que separa juegos, bandas sonoras, programas, editores, extras y versiones de prueba.
+- **⬆️ Mejora:** ⭐ Muchos más juegos con nota: la de los jugadores de Steam llega también a los que tienes en Epic, GOG y otras tiendas, y RAWG encuentra más juegos.
+- **⬆️ Mejora:** 🪟 La app recuerda el **tamaño y el sitio de la ventana** (y si estaba maximizada) al volver a abrirla.
+- **⬆️ Mejora:** Lo que instalas o desinstalas se ve en unos 10 minutos y la biblioteca se actualiza sola, sin recargar.
+- **🔧 Arreglo:** Los juegos de EA añadidos a mano tienen botón, y si el launcher no está instalado se avisa claro. Nombres de Epic con «?» arreglados.
+- **🔧 Arreglo:** 🔒 Seguridad: el servidor interno solo atiende a la propia app, y los programas del sistema se abren siempre desde su sitio real.
+- **⬆️ Mejora:** ❓ Preguntas nuevas que explican sin tecnicismos cómo funciona: cómo sabe qué juegos tienes **sin tu usuario ni tu contraseña**, qué pasa al pulsar «Jugar» y cómo comprobarlo tú mismo.
+
+## 📜 Versiones anteriores
+
 ### 0.4.4 · Encuentra tus launchers estén donde estén (23/11/2026 · Beta)
 - **⬆️ Mejora:** 🔎 El escaneo ya no da por hecho dónde están las cosas. Primero localiza cada launcher con la lista de programas instalados de Windows (en el disco que sea) y lo enseña en el panel del escaneo; si alguno no aparece, lo busca por los discos empezando por el del sistema. Después lee sus juegos.
 - **🔧 Arreglo:** Si Windows está instalado en otra letra que no sea C:, ahora sí se encuentran GOG Galaxy, Epic, Battle.net, Riot y EA (antes se buscaban siempre en C:).
@@ -9,8 +23,6 @@
 - **✨ Nuevo:** 🐧 **Linux** (en pruebas): además de Steam, lee **Heroic** (tus juegos de Epic, GOG y Amazon), **Lutris** e **itch.io**, con sus horas y el botón Jugar.
 - **✨ Nuevo:** 🍎 **Mac** (en pruebas): además de Steam, lee **GOG Galaxy**, **Epic**, **Battle.net**, **itch.io** y **Heroic**.
 - **✨ Nuevo:** En Windows también se leen los juegos de Heroic, para quien lo use.
-
-## 📜 Versiones anteriores
 
 ### 0.4.3 · Más de 60 estilos (22/11/2026 · Beta)
 - **✨ Nuevo:** 🎨 **41 estilos nuevos**, y ya hay más de 60. Cada uno trae su propia letra, sus colores y su efecto al pasar el ratón por las portadas, para que se reconozca de un vistazo qué representa.
