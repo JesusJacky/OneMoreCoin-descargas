@@ -2,6 +2,21 @@
 
 ## 🆕 Lo último
 
+### 0.4.6 · Tu año, tus logros y las noticias (26/11/2026 · Beta)
+- **✨ Nuevo:** 🎆 **Tu año en juegos**: un resumen espectacular de tu año, con música y un escenario de recreativa que late con ella: juegos, horas, tu juego del año con redoble y confeti, tu top, tus logros, tu título de jugador y fuegos artificiales. Solo cuenta lo de ese año y se puede guardar como imagen. En tu perfil; cambia solo cada año.
+- **✨ Nuevo:** 🏆 **Logros con detalle**: en la ficha, «Ver cuáles» enseña los que tienes (con la fecha) y los que te faltan (con cómo se consiguen). Los ocultos salen tapados para no destriparte nada. De Steam y GOG Galaxy, y en castellano siempre que se pueda (aunque GOG los guarde en inglés).
+- **✨ Nuevo:** ⭐ Tu **título de jugador** tiene ahora **3 niveles** (de «Aprendiz de estratega» a «Gran maestro de la estrategia»), con el porqué y lo que te falta para subir. Y el calendario de tu perfil es ahora un calendario de pared de tus días de juego.
+- **⬆️ Mejora:** 🧠 El test de ánimo tiene más sensaciones para elegir (hasta tres), y todas las preguntas y avisos de la app salen ya con su estilo, nunca con las ventanas de Windows.
+- **✨ Nuevo:** 📰 **Noticias** de videojuegos y de PC de portales en español, con filtros por tema y por portal, y arriba las que hablan de tus juegos. Cada noticia se abre en su web original.
+- **✨ Nuevo:** 📌 **Tu progreso** en cada juego: pendiente, jugando, terminado, completado al 100 % o abandonado. Lo terminado ya no te lo recomiendan el dado ni los tests.
+- **✨ Nuevo:** 🗂️ **Tus listas**: crea las que quieras («Para jugar en pareja», «Cortos para entre semana»…) desde la ficha de cada juego, y fíltralas en el panel izquierdo.
+- **✨ Nuevo:** ⏱️ **Horas con One More Coin**: lo que juegas con la app abierta, en la ficha de cada juego y en tu perfil con tu top 10. También para los juegos de Epic, que no guardan horas.
+- **✨ Nuevo:** 🟢 **Segundo plano**: al cerrar la ventana, la app puede seguir junto al reloj apuntando tus partidas, y abrirse al encender el PC. Te lo pregunta dentro de la app (puedes recordar tu elección) y en Ajustes eliges qué hace la ✕: preguntarte, seguir en segundo plano o cerrarse del todo.
+- **✨ Nuevo:** 📅 En tu perfil, **tu semana** (horas de cada día, calendario de 12 semanas y juego del mes) y 💽 **el espacio en disco**: lo que ocupa cada juego y cuáles podrías desinstalar. Nuevo orden «Lo que más ocupa».
+- **✨ Nuevo:** 📖 **Guía** en 🪙 → Guía: todo lo que hace la app, en resumen, con un botón «Llévame» para ir directo a cada cosa.
+
+## 📜 Versiones anteriores
+
 ### 0.4.5 · A qué estás jugando, de un vistazo (26/11/2026 · Beta)
 - **✨ Nuevo:** 🕹️ En el panel izquierdo ves el juego al que estás **jugando ahora** y cuánto llevas en esta partida; si no juegas, tu **última partida**: cuánto duró y cuándo fue.
 - **✨ Nuevo:** 🔎 Buscar un juego (en Deseados o al añadirlo a mano) da resultados **mientras escribes** y entiende las erratas: «deat island» encuentra Dead Island.
@@ -13,8 +28,6 @@
 - **🔧 Arreglo:** Los juegos de EA añadidos a mano tienen botón, y si el launcher no está instalado se avisa claro. Nombres de Epic con «?» arreglados.
 - **🔧 Arreglo:** 🔒 Seguridad: el servidor interno solo atiende a la propia app, y los programas del sistema se abren siempre desde su sitio real.
 - **⬆️ Mejora:** ❓ Preguntas nuevas que explican sin tecnicismos cómo funciona: cómo sabe qué juegos tienes **sin tu usuario ni tu contraseña**, qué pasa al pulsar «Jugar» y cómo comprobarlo tú mismo.
-
-## 📜 Versiones anteriores
 
 ### 0.4.4 · Encuentra tus launchers estén donde estén (23/11/2026 · Beta)
 - **⬆️ Mejora:** 🔎 El escaneo ya no da por hecho dónde están las cosas. Primero localiza cada launcher con la lista de programas instalados de Windows (en el disco que sea) y lo enseña en el panel del escaneo; si alguno no aparece, lo busca por los discos empezando por el del sistema. Después lee sus juegos.

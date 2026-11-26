@@ -52,18 +52,19 @@ tecnicismos en las [preguntas frecuentes](#-preguntas-frecuentes).
 - **Está en fase beta:** funciona, pero puede tener algún fallo. Si ves uno, cuéntalo desde «💬 Sugerencias» en la propia app.
 
 <!-- NOVEDADES:INICIO -->
-## 🆕 Lo nuevo en la versión 0.4.5 · A qué estás jugando, de un vistazo
+## 🆕 Lo nuevo en la versión 0.4.6 · Tu año, tus logros y las noticias
 
-- **✨ Nuevo:** 🕹️ En el panel izquierdo ves el juego al que estás **jugando ahora** y cuánto llevas en esta partida; si no juegas, tu **última partida**: cuánto duró y cuándo fue.
-- **✨ Nuevo:** 🔎 Buscar un juego (en Deseados o al añadirlo a mano) da resultados **mientras escribes** y entiende las erratas: «deat island» encuentra Dead Island.
-- **✨ Nuevo:** ➕ Al añadir un juego a mano eliges su launcher y, si quieres, su carpeta: así sabe si está instalado y dónde, y el botón lo abre en su launcher.
-- **✨ Nuevo:** 🎵 Las **bandas sonoras** que traen tus juegos (en su carpeta, como extra de GOG o compradas en Steam) salen en su ficha y en el nuevo filtro **Tipo**, que separa juegos, bandas sonoras, programas, editores, extras y versiones de prueba.
-- **⬆️ Mejora:** ⭐ Muchos más juegos con nota: la de los jugadores de Steam llega también a los que tienes en Epic, GOG y otras tiendas, y RAWG encuentra más juegos.
-- **⬆️ Mejora:** 🪟 La app recuerda el **tamaño y el sitio de la ventana** (y si estaba maximizada) al volver a abrirla.
-- **⬆️ Mejora:** Lo que instalas o desinstalas se ve en unos 10 minutos y la biblioteca se actualiza sola, sin recargar.
-- **🔧 Arreglo:** Los juegos de EA añadidos a mano tienen botón, y si el launcher no está instalado se avisa claro. Nombres de Epic con «?» arreglados.
-- **🔧 Arreglo:** 🔒 Seguridad: el servidor interno solo atiende a la propia app, y los programas del sistema se abren siempre desde su sitio real.
-- **⬆️ Mejora:** ❓ Preguntas nuevas que explican sin tecnicismos cómo funciona: cómo sabe qué juegos tienes **sin tu usuario ni tu contraseña**, qué pasa al pulsar «Jugar» y cómo comprobarlo tú mismo.
+- **✨ Nuevo:** 🎆 **Tu año en juegos**: un resumen espectacular de tu año, con música y un escenario de recreativa que late con ella: juegos, horas, tu juego del año con redoble y confeti, tu top, tus logros, tu título de jugador y fuegos artificiales. Solo cuenta lo de ese año y se puede guardar como imagen. En tu perfil; cambia solo cada año.
+- **✨ Nuevo:** 🏆 **Logros con detalle**: en la ficha, «Ver cuáles» enseña los que tienes (con la fecha) y los que te faltan (con cómo se consiguen). Los ocultos salen tapados para no destriparte nada. De Steam y GOG Galaxy, y en castellano siempre que se pueda (aunque GOG los guarde en inglés).
+- **✨ Nuevo:** ⭐ Tu **título de jugador** tiene ahora **3 niveles** (de «Aprendiz de estratega» a «Gran maestro de la estrategia»), con el porqué y lo que te falta para subir. Y el calendario de tu perfil es ahora un calendario de pared de tus días de juego.
+- **⬆️ Mejora:** 🧠 El test de ánimo tiene más sensaciones para elegir (hasta tres), y todas las preguntas y avisos de la app salen ya con su estilo, nunca con las ventanas de Windows.
+- **✨ Nuevo:** 📰 **Noticias** de videojuegos y de PC de portales en español, con filtros por tema y por portal, y arriba las que hablan de tus juegos. Cada noticia se abre en su web original.
+- **✨ Nuevo:** 📌 **Tu progreso** en cada juego: pendiente, jugando, terminado, completado al 100 % o abandonado. Lo terminado ya no te lo recomiendan el dado ni los tests.
+- **✨ Nuevo:** 🗂️ **Tus listas**: crea las que quieras («Para jugar en pareja», «Cortos para entre semana»…) desde la ficha de cada juego, y fíltralas en el panel izquierdo.
+- **✨ Nuevo:** ⏱️ **Horas con One More Coin**: lo que juegas con la app abierta, en la ficha de cada juego y en tu perfil con tu top 10. También para los juegos de Epic, que no guardan horas.
+- **✨ Nuevo:** 🟢 **Segundo plano**: al cerrar la ventana, la app puede seguir junto al reloj apuntando tus partidas, y abrirse al encender el PC. Te lo pregunta dentro de la app (puedes recordar tu elección) y en Ajustes eliges qué hace la ✕: preguntarte, seguir en segundo plano o cerrarse del todo.
+- **✨ Nuevo:** 📅 En tu perfil, **tu semana** (horas de cada día, calendario de 12 semanas y juego del mes) y 💽 **el espacio en disco**: lo que ocupa cada juego y cuáles podrías desinstalar. Nuevo orden «Lo que más ocupa».
+- **✨ Nuevo:** 📖 **Guía** en 🪙 → Guía: todo lo que hace la app, en resumen, con un botón «Llévame» para ir directo a cada cosa.
 
 **[📜 Todas las novedades, versión a versión →](NOVEDADES.md)**
 <!-- NOVEDADES:FIN -->
@@ -146,6 +147,18 @@ Coge el mando, túmbate y elige desde el sofá: **pantalla completa**, tus juego
 
 <div align="center"><img src="capturas/10-modo-sofa.png" width="900" alt="Modo sofá"></div>
 
+## 🎆 Tu año, tus logros y lo tuyo
+
+- 🎆 **Tu año en juegos**: un resumen de tu año en pantallas que pasan solas, con música, como los resúmenes anuales de las apps de música: a cuántos juegos has jugado, cuántas horas, tu juego del año, tu top, tus logros y tu título de jugador. Al final, guárdalo como imagen.
+- 🏆 **Logros con detalle**: los que tienes, con la fecha en que los conseguiste, y los que te faltan, con cómo se consiguen. Los ocultos salen tapados para no destriparte la historia. De Steam y GOG Galaxy.
+- 📌 **Tu progreso** en cada juego (pendiente, jugando, terminado, completado al 100 % o abandonado) y 🗂️ **tus listas** («Para jugar en pareja», «Cortos para entre semana»…).
+- ⏱️ **Horas con One More Coin**: lo que juegas con la app abierta, con tu top 10. Puede quedarse en **segundo plano** junto al reloj para no perderse ninguna partida (y sirve también para los juegos de Epic, que no guardan horas).
+- 📅 **Tu semana** (horas de cada día, calendario y juego del mes) y 💽 **espacio en disco**: lo que ocupa cada juego y cuáles podrías desinstalar.
+
+## 📰 Noticias de videojuegos y PC
+
+Lo último de portales en español (3DJuegos, Vida Extra, HobbyConsolas, IGN España, Eurogamer, Xataka, HardZone…), con filtros por tema y por portal, y arriba las noticias que hablan de **juegos que tienes**. Cada noticia se abre en la web del portal: One More Coin solo las recopila.
+
 ## 🏷️ Ofertas, juegos gratis, ✨ recomendados y ⭐ deseados
 
 Para el que no tiene ganas de mirar tienda por tienda: One More Coin **rastrea por ti los juegos gratis y las ofertas** de Steam, Epic,
@@ -190,11 +203,11 @@ El botón **«Analizar mi equipo»** te dice si te conviene. Funciona desde un I
 
 | | |
 |---|---|
-| 🏆 **Logros** de Steam y GOG con su progreso | 🏛️ **Colección de clásicos**: más de 230 juegos que hicieron historia, cada uno con su historia (y la de su remake); los que te faltan salen apagados hasta que los consigues |
+| 🏆 **Logros** de Steam y GOG: cuáles tienes, cuándo y cuáles te faltan | 🏛️ **Colección de clásicos**: más de 230 juegos que hicieron historia, cada uno con su historia (y la de su remake); los que te faltan salen apagados hasta que los consigues |
 | 📖 **Fichas completas**: descripción, capturas, vídeos y la insignia **GOTY** de los Juegos del Año | 🗣️ **Qué dice el fandom**: el resumen de lo que opinan jugadores y crítica |
 | 🔍 **Filtros de todo tipo**: tienda, género, cooperativo, PvP, sin estrenar, nota… | ✍️ **Tu nivel y tu crítica** para cada juego |
 | 🔄 **Se actualiza sola**: tu biblioteca y la propia app | 🐢 **Modo ligero** para PCs antiguos, con **análisis de tu equipo** |
-| ➕ **Añade a mano** lo que una tienda no guarde en el PC | 📰 **Novedades** de cada versión dentro de la app |
+| ➕ **Añade a mano** lo que una tienda no guarde en el PC | 📖 **Guía** de todo lo que hace, y las **novedades** de cada versión dentro de la app |
 | 🔔 **Avisos**: juegos gratis y ofertas nuevas, versión nueva, ofertas de tus deseados y deseados que ya tienes | 🧩 **Una sola carta** aunque tengas el juego en varias tiendas |
 
 ## 🔒 Tus datos son tuyos
@@ -321,7 +334,7 @@ Para ver tu biblioteca, no: One More Coin lee la lista que cada launcher dejó e
 
 <details><summary><b>📤 ¿Qué sale de mi PC?</b></summary>
 
-Solo lo necesario para completar la ficha de cada juego: su **nombre o su número en la tienda**, que se pregunta a servicios públicos (la tienda de Steam, GOG, Wikidata…) para traer la portada, el año, la nota de los jugadores o los extras que trae. Nunca se envía tu lista completa ni nada que diga quién eres, ni tus horas, ni tus cuentas. Lo único más es lo que tú escribas en «💬 Sugerencias», que llega sin tu nombre ni tu correo.
+Solo lo necesario para completar la ficha de cada juego: su **nombre o su número en la tienda**, que se pregunta a servicios públicos (la tienda de Steam, GOG, Wikidata…) para traer la portada, el año, la nota de los jugadores o los extras que trae. Nunca se envía tu lista completa ni nada que diga quién eres, ni tus horas, ni tus cuentas. Para las noticias, a cada portal solo se le pide su lista pública de noticias. Lo único más es lo que tú escribas en «💬 Sugerencias», que llega sin tu nombre ni tu correo.
 </details>
 
 <details><summary><b>¿Qué gano yo usando One More Coin?</b></summary>
