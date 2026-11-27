@@ -2,6 +2,15 @@
 
 ## 🆕 Lo último
 
+### 0.4.7 · Más estable en cualquier PC (27/11/2026 · Beta)
+- **🔧 Arreglo:** El escaneo ya no se para si Steam está instalado sin ninguna cuenta iniciada o si la caché de Epic está dañada: avisa y sigue con el resto de tus launchers.
+- **🔧 Arreglo:** 🏷️ La ventana de Ofertas ya no falla si la lista de ofertas llega incompleta.
+- **🔧 Arreglo:** 🎆 Al guardar la imagen de «Tu año en juegos», todos los textos salen con su tamaño y su grosor de letra.
+- **🔧 Arreglo:** 📰 Las noticias «Sobre tus juegos» funcionan también con juegos que llevan símbolos en el nombre.
+- **⬆️ Mejora:** 🔒 Más seguridad al jugar a juegos de GOG y Rockstar: solo se abren desde la carpeta de un juego instalado de tu biblioteca.
+
+## 📜 Versiones anteriores
+
 ### 0.4.6 · Tu año, tus logros y las noticias (26/11/2026 · Beta)
 - **✨ Nuevo:** 🎆 **Tu año en juegos**: un resumen espectacular de tu año, con música y un escenario de recreativa que late con ella: juegos, horas, tu juego del año con redoble y confeti, tu top, tus logros, tu título de jugador y fuegos artificiales. Solo cuenta lo de ese año y se puede guardar como imagen. En tu perfil; cambia solo cada año.
 - **✨ Nuevo:** 🏆 **Logros con detalle**: en la ficha, «Ver cuáles» enseña los que tienes (con la fecha) y los que te faltan (con cómo se consiguen). Los ocultos salen tapados para no destriparte nada. De Steam y GOG Galaxy, y en castellano siempre que se pueda (aunque GOG los guarde en inglés).
@@ -14,8 +23,6 @@
 - **✨ Nuevo:** 🟢 **Segundo plano**: al cerrar la ventana, la app puede seguir junto al reloj apuntando tus partidas, y abrirse al encender el PC. Te lo pregunta dentro de la app (puedes recordar tu elección) y en Ajustes eliges qué hace la ✕: preguntarte, seguir en segundo plano o cerrarse del todo.
 - **✨ Nuevo:** 📅 En tu perfil, **tu semana** (horas de cada día, calendario de 12 semanas y juego del mes) y 💽 **el espacio en disco**: lo que ocupa cada juego y cuáles podrías desinstalar. Nuevo orden «Lo que más ocupa».
 - **✨ Nuevo:** 📖 **Guía** en 🪙 → Guía: todo lo que hace la app, en resumen, con un botón «Llévame» para ir directo a cada cosa.
-
-## 📜 Versiones anteriores
 
 ### 0.4.5 · A qué estás jugando, de un vistazo (26/11/2026 · Beta)
 - **✨ Nuevo:** 🕹️ En el panel izquierdo ves el juego al que estás **jugando ahora** y cuánto llevas en esta partida; si no juegas, tu **última partida**: cuánto duró y cuándo fue.

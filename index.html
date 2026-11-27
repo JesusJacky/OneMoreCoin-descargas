@@ -1,5 +1,6 @@
 <!doctype html>
 <!-- © 2026 JesusJacky · One More Coin. Todos los derechos reservados. Prohibida su copia, modificación o distribución sin permiso del autor. Huella: OMC-JJ-2026-341FA0A4E670 -->
+<!-- Página de presentación (landing) de One More Coin: nombre, vídeo promocional, botones de descarga, el apartado «¿Es de fiar?» y tarjetas con las funciones. Tiene sus propios estilos en línea y no usa estilo.css. -->
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -10,6 +11,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<!-- Estilos de la página: variables de color (:root), cabecera con flexbox (display: flex coloca los hijos en fila) y tarjetas con grid (display: grid reparte el contenido en columnas; repeat(auto-fit, minmax(230px, 1fr)) crea tantas columnas de al menos 230px como quepan). -->
 <style>
   :root { --fondo: #07040f; --texto: #f1ecff; --suave: #b9addb; --rosa: #ff2bd6; --cian: #4cc9f0; --amarillo: #ffe600; }
   * { box-sizing: border-box; }
@@ -50,12 +52,16 @@
 </style>
 </head>
 <body>
+<!-- Contenido centrado con ancho máximo (.contenedor). -->
 <div class="contenedor">
+<!-- Cabecera con el logo y el nombre. -->
   <header><img src="icono.png" alt=""><div class="nombre"><h1>ONE MORE COIN</h1><p class="lib">LIBRARY</p></div></header>
+<!-- Aviso del cambio de nombre y lema de la app. -->
   <p class="aviso-nombre">🪙 <b>Insert Coin ahora se llama One More Coin.</b> Es la misma app: si ya la tenías, se actualiza sola y conserva todo lo tuyo.</p>
   <p class="lema">Todos tus juegos. Una sola biblioteca. Cero excusas para no jugar.</p>
   <p class="tiendas">Un programa <b>gratuito</b> que junta en una sola pantalla los juegos que ya tienes (no es una tienda: no vende nada) en<br>Steam · Epic Games · GOG · EA · Ubisoft · Battle.net · Riot · Amazon · itch.io · Rockstar · Xbox · Humble · Legacy Games</p>
 
+<!-- Vídeo promocional (sin descarga ni menú contextual). -->
   <div class="video">
     <video controls playsinline preload="metadata" poster="capturas/portada-video.jpg" controlslist="nodownload noplaybackrate" disablepictureinpicture oncontextmenu="return false">
       <source src="video/One-More-Coin-promo.mp4?v=3" type="video/mp4">
@@ -64,11 +70,13 @@
   </div>
   <p class="creditos">Música: «It Takes A Hero», de Zane Little Music (CC0)</p>
 
+<!-- Botones de descarga y de más información (enlaces al repositorio de descargas en GitHub). -->
   <div class="botones">
     <a class="boton" href="https://github.com/JesusJacky/OneMoreCoin-descargas/releases/latest">⬇ Descargar gratis</a>
     <a class="boton secundario" href="https://github.com/JesusJacky/OneMoreCoin-descargas">Más información</a>
   </div>
 
+<!-- Apartado de confianza: «¿Es de fiar?». -->
   <div class="fiar">
     <h2>🛡️ ¿Es de fiar?</h2>
     <ul>
@@ -81,6 +89,7 @@
     </ul>
   </div>
 
+<!-- Tarjetas con las funciones principales. -->
   <div class="rejilla">
     <div class="tarjeta"><b>📚 Todo junto</b><span>Tus juegos de todas las tiendas en una sola biblioteca, con portadas, horas, logros y notas.</span></div>
     <div class="tarjeta"><b>📖 Fichas completas</b><span>Año, puntuaciones, quién lo hizo, su nivel (Top, Juegazo…) y tu propia reseña.</span></div>
@@ -98,9 +107,11 @@
     <div class="tarjeta"><b>🎨 Más de 60 estilos</b><span>Recreativa, escritorios de varias épocas, consolas, juegos míticos, anime, cine… y modo ligero para PCs antiguos.</span></div>
   </div>
 
+<!-- Aviso de beta, requisitos y enlace a la página de descargas. -->
   <p class="aviso"><b>Gratis y en beta.</b> Windows 10/11 (64 bits); Linux y Mac en prueba. Tu biblioteca se lee en tu PC y solo leyendo: no se envían tus datos a nadie.
     Requisitos e instrucciones en la <a href="https://github.com/JesusJacky/OneMoreCoin-descargas">página de descargas</a>.</p>
 
+<!-- Pie de página con la autoría y los derechos. -->
   <footer>Un proyecto personal de JesusJacky · © 2026 JesusJacky. Todos los derechos reservados · Las marcas, portadas y textos de los juegos y las tiendas son de sus dueños; One More Coin no está afiliada a ninguna.<br>
     🪙 <i>Inserta una moneda para continuar…</i></footer>
 </div>

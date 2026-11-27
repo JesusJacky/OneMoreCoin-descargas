@@ -52,19 +52,13 @@ tecnicismos en las [preguntas frecuentes](#-preguntas-frecuentes).
 - **Está en fase beta:** funciona, pero puede tener algún fallo. Si ves uno, cuéntalo desde «💬 Sugerencias» en la propia app.
 
 <!-- NOVEDADES:INICIO -->
-## 🆕 Lo nuevo en la versión 0.4.6 · Tu año, tus logros y las noticias
+## 🆕 Lo nuevo en la versión 0.4.7 · Más estable en cualquier PC
 
-- **✨ Nuevo:** 🎆 **Tu año en juegos**: un resumen espectacular de tu año, con música y un escenario de recreativa que late con ella: juegos, horas, tu juego del año con redoble y confeti, tu top, tus logros, tu título de jugador y fuegos artificiales. Solo cuenta lo de ese año y se puede guardar como imagen. En tu perfil; cambia solo cada año.
-- **✨ Nuevo:** 🏆 **Logros con detalle**: en la ficha, «Ver cuáles» enseña los que tienes (con la fecha) y los que te faltan (con cómo se consiguen). Los ocultos salen tapados para no destriparte nada. De Steam y GOG Galaxy, y en castellano siempre que se pueda (aunque GOG los guarde en inglés).
-- **✨ Nuevo:** ⭐ Tu **título de jugador** tiene ahora **3 niveles** (de «Aprendiz de estratega» a «Gran maestro de la estrategia»), con el porqué y lo que te falta para subir. Y el calendario de tu perfil es ahora un calendario de pared de tus días de juego.
-- **⬆️ Mejora:** 🧠 El test de ánimo tiene más sensaciones para elegir (hasta tres), y todas las preguntas y avisos de la app salen ya con su estilo, nunca con las ventanas de Windows.
-- **✨ Nuevo:** 📰 **Noticias** de videojuegos y de PC de portales en español, con filtros por tema y por portal, y arriba las que hablan de tus juegos. Cada noticia se abre en su web original.
-- **✨ Nuevo:** 📌 **Tu progreso** en cada juego: pendiente, jugando, terminado, completado al 100 % o abandonado. Lo terminado ya no te lo recomiendan el dado ni los tests.
-- **✨ Nuevo:** 🗂️ **Tus listas**: crea las que quieras («Para jugar en pareja», «Cortos para entre semana»…) desde la ficha de cada juego, y fíltralas en el panel izquierdo.
-- **✨ Nuevo:** ⏱️ **Horas con One More Coin**: lo que juegas con la app abierta, en la ficha de cada juego y en tu perfil con tu top 10. También para los juegos de Epic, que no guardan horas.
-- **✨ Nuevo:** 🟢 **Segundo plano**: al cerrar la ventana, la app puede seguir junto al reloj apuntando tus partidas, y abrirse al encender el PC. Te lo pregunta dentro de la app (puedes recordar tu elección) y en Ajustes eliges qué hace la ✕: preguntarte, seguir en segundo plano o cerrarse del todo.
-- **✨ Nuevo:** 📅 En tu perfil, **tu semana** (horas de cada día, calendario de 12 semanas y juego del mes) y 💽 **el espacio en disco**: lo que ocupa cada juego y cuáles podrías desinstalar. Nuevo orden «Lo que más ocupa».
-- **✨ Nuevo:** 📖 **Guía** en 🪙 → Guía: todo lo que hace la app, en resumen, con un botón «Llévame» para ir directo a cada cosa.
+- **🔧 Arreglo:** El escaneo ya no se para si Steam está instalado sin ninguna cuenta iniciada o si la caché de Epic está dañada: avisa y sigue con el resto de tus launchers.
+- **🔧 Arreglo:** 🏷️ La ventana de Ofertas ya no falla si la lista de ofertas llega incompleta.
+- **🔧 Arreglo:** 🎆 Al guardar la imagen de «Tu año en juegos», todos los textos salen con su tamaño y su grosor de letra.
+- **🔧 Arreglo:** 📰 Las noticias «Sobre tus juegos» funcionan también con juegos que llevan símbolos en el nombre.
+- **⬆️ Mejora:** 🔒 Más seguridad al jugar a juegos de GOG y Rockstar: solo se abren desde la carpeta de un juego instalado de tu biblioteca.
 
 **[📜 Todas las novedades, versión a versión →](NOVEDADES.md)**
 <!-- NOVEDADES:FIN -->
