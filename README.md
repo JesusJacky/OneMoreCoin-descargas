@@ -21,15 +21,16 @@
 
 </div>
 
-> [!NOTE]
-> 🪙 **Insert Coin ahora se llama One More Coin.** Es **la misma app**, con las mismas funciones. Si ya la tenías, se actualiza
-> sola desde su menú 🪙 y conserva tu biblioteca, tus niveles, tus críticas, tus deseados y tus ajustes. El nombre cambia porque
-> «Insert Coin» ya lo tenía registrado otra empresa para software y videojuegos.
-
 ---
 
 > **En una frase:** One More Coin es un programa **gratuito** para Windows (y, en prueba, para Linux y Mac) que junta en una sola pantalla **todos los juegos que ya tienes**
 > en Steam, Epic, GOG, EA, Ubisoft, Battle.net y demás tiendas, para que no tengas que ir abriéndolas una por una.
+
+## 🚀 Empieza en 3 pasos
+
+1. **Descárgala** desde [la última versión](../../releases/latest) e instálala (Windows te avisa porque aún no tiene firma: «Más información» → «Ejecutar de todos modos»).
+2. **Ábrela.** No te pide cuentas, ni contraseñas, ni iniciar sesión: no hay nada que rellenar.
+3. **Espera un minuto** mientras lee tus launchers. Tu biblioteca aparece enseguida, y las portadas, notas y datos se van completando solos.
 
 ## 🛡️ ¿Es de fiar?
 
@@ -97,7 +98,7 @@ Tira un **D20** y te recomienda un juego de tu biblioteca: un **20 crítico** es
 ¿Qué juegas de verdad? Porcentaje de tus horas por tipo de juego, tus más jugados, **tu semana**, un **calendario de tus días de juego**, lo que ocupa cada juego en el disco… y **un título que te has ganado**, con **3 niveles** (de *«Aprendiz de estratega»* a *«Gran maestro de la estrategia»*) y lo que te falta para subir.
 
 </td>
-<td width="50%"><img src="capturas/3-perfil-jugador.png" alt="Perfil de jugador"></td>
+<td width="50%"><img src="capturas/3-perfil-jugador-recorte.png" alt="Perfil de jugador"></td>
 </tr>
 <tr>
 <td width="50%"><img src="capturas/5-test.png" alt="Test ¿Qué juego?"></td>
@@ -162,17 +163,17 @@ trofeos con tus logros, tu título de jugador y *CONTINUE?* con fuegos artificia
 - 📅 **Tu semana** (horas de cada día, calendario de tus días de juego y juego del mes) y 💽 **espacio en disco**: lo que ocupa cada juego y cuáles podrías desinstalar.
 
 <div align="center">
-<img src="capturas/21-logros.png" width="49%" alt="Logros con detalle: conseguidos con su fecha">
-<img src="capturas/22-progreso-listas.png" width="49%" alt="Tu progreso y tus listas en la ficha">
-<img src="capturas/19-perfil-semana.png" width="49%" alt="Tu semana y el calendario de tus días de juego">
-<img src="capturas/20-espacio-disco.png" width="49%" alt="Espacio en disco y candidatos a desinstalar">
+<img src="capturas/21-logros-recorte.png" width="49%" alt="Logros con detalle: conseguidos con su fecha">
+<img src="capturas/22-progreso-listas-recorte.png" width="49%" alt="Tu progreso y tus listas en la ficha">
+<img src="capturas/19-perfil-semana-recorte.png" width="49%" alt="Tu semana y el calendario de tus días de juego">
+<img src="capturas/20-espacio-disco-recorte.png" width="49%" alt="Espacio en disco y candidatos a desinstalar">
 </div>
 
 ## 📰 Noticias de videojuegos y PC
 
 Lo último de portales en español (3DJuegos, Vida Extra, HobbyConsolas, IGN España, Eurogamer, Xataka, HardZone…), con filtros por tema y por portal, y arriba las noticias que hablan de **juegos que tienes**. Cada noticia se abre en la web del portal: One More Coin solo las recopila.
 
-<div align="center"><img src="capturas/23-noticias.png" width="80%" alt="Noticias de videojuegos y PC"><br><sub>Las fotos de las noticias son de cada portal; aquí salen desenfocadas.</sub></div>
+<div align="center"><img src="capturas/23-noticias-recorte.png" width="55%" alt="Noticias de videojuegos y PC"><br><sub>Las fotos de las noticias son de cada portal; aquí salen desenfocadas.</sub></div>
 
 ## 🏷️ Ofertas, juegos gratis, ✨ recomendados y ⭐ deseados
 
@@ -225,6 +226,8 @@ El botón **«Analizar mi equipo»** te dice si te conviene. Funciona desde un I
 | ➕ **Añade a mano** lo que una tienda no guarde en el PC | 📖 **Guía** de todo lo que hace, con un botón «Llévame» a cada cosa, y las **novedades** de cada versión |
 | 🟢 **Segundo plano** junto al reloj (opcional) y elige qué hace la ✕ de la ventana | 🗂️ **Tus listas** y 📌 **tu progreso** en cada juego, con sus filtros |
 | 🔔 **Avisos**: juegos gratis y ofertas nuevas, versión nueva, ofertas de tus deseados y deseados que ya tienes | 🧩 **Una sola carta** aunque tengas el juego en varias tiendas |
+
+<div align="center"><img src="capturas/24-guia-recorte.png" width="45%" alt="Guía de la app con todas sus funciones"><br><sub>La 📖 Guía (menú 🪙) explica cada función en dos líneas y te lleva a ella con «Llévame».</sub></div>
 
 ## 🔒 Tus datos son tuyos
 
@@ -417,6 +420,11 @@ Sola: te avisa cuando hay versión nueva (punto amarillo en el botón 🪙) y la
 <details><summary><b>¿Lleva virus, publicidad o algo raro?</b></summary>
 
 No. No tiene publicidad, no instala nada más y no necesita permisos de administrador para funcionar. Si Windows avisa al instalarlo es solo porque aún no tiene certificado de firma (mira «¿Es de fiar?», arriba).
+</details>
+
+<details><summary><b>🪙 ¿Insert Coin y One More Coin son lo mismo?</b></summary>
+
+Sí: es **la misma app**. Se llamaba Insert Coin y cambió de nombre porque «Insert Coin» ya lo tenía registrado otra empresa para software y videojuegos. Si la tenías, se actualiza sola desde su menú 🪙 y conserva tu biblioteca, tus niveles, tus críticas, tus deseados y tus ajustes.
 </details>
 
 <details><summary><b>¿Quién lo ha hecho?</b></summary>
