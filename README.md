@@ -28,7 +28,7 @@
 
 ---
 
-> **En una frase:** One More Coin es un programa **gratuito** para Windows que junta en una sola pantalla **todos los juegos que ya tienes**
+> **En una frase:** One More Coin es un programa **gratuito** para Windows (y, en prueba, para Linux y Mac) que junta en una sola pantalla **todos los juegos que ya tienes**
 > en Steam, Epic, GOG, EA, Ubisoft, Battle.net y demás tiendas, para que no tengas que ir abriéndolas una por una.
 
 ## 🛡️ ¿Es de fiar?
@@ -94,7 +94,7 @@ Tira un **D20** y te recomienda un juego de tu biblioteca: un **20 crítico** es
 <td width="50%" valign="top">
 
 ### 💀 Tu perfil de jugador
-¿Qué juegas de verdad? Porcentaje de tus horas por tipo de juego, tus más jugados, lo último que has jugado… y **un título que te has ganado**: *«Eres un estratega»*, *«¡Wololo!»*, *«Cada muerte es un nuevo comienzo»*…
+¿Qué juegas de verdad? Porcentaje de tus horas por tipo de juego, tus más jugados, **tu semana**, un **calendario de tus días de juego**, lo que ocupa cada juego en el disco… y **un título que te has ganado**, con **3 niveles** (de *«Aprendiz de estratega»* a *«Gran maestro de la estrategia»*) y lo que te falta para subir.
 
 </td>
 <td width="50%"><img src="capturas/3-perfil-jugador.png" alt="Perfil de jugador"></td>
@@ -141,17 +141,38 @@ Coge el mando, túmbate y elige desde el sofá: **pantalla completa**, tus juego
 
 <div align="center"><img src="capturas/10-modo-sofa.png" width="900" alt="Modo sofá"></div>
 
-## 🎆 Tu año, tus logros y lo tuyo
+## 🎆 Tu año en juegos
 
-- 🎆 **Tu año en juegos**: un resumen de tu año en pantallas que pasan solas, con música, como los resúmenes anuales de las apps de música: a cuántos juegos has jugado, cuántas horas, tu juego del año, tu top, tus logros y tu título de jugador. Al final, guárdalo como imagen.
-- 🏆 **Logros con detalle**: los que tienes, con la fecha en que los conseguiste, y los que te faltan, con cómo se consiguen. Los ocultos salen tapados para no destriparte la historia. De Steam y GOG Galaxy.
+Como los resúmenes anuales de las apps de música, pero de **tus juegos**: un escenario de recreativa que **late con la música**,
+contadores que suben, tus portadas volando, **redoble y confeti para tu juego del año**, la cuenta atrás de tu top, una lluvia de
+trofeos con tus logros, tu título de jugador y *CONTINUE?* con fuegos artificiales. Solo cuenta lo de **ese año**, cambia solo cada
+1 de enero y al final lo **guardas como imagen** para enseñarlo.
+
+<div align="center">
+<a href="https://jesusjacky.github.io/OneMoreCoin-descargas/#tu-ano"><img src="tu-ano.gif" width="600" alt="Tu año en juegos: la revelación del juego del año"></a>
+
+**[▶ Verlo entero, con música (1 min)](https://jesusjacky.github.io/OneMoreCoin-descargas/#tu-ano)**<br><sub>Música: «Synth Wave», de Alex McCulloch (CC0)</sub>
+</div>
+
+## 🏆 Tus logros, tu progreso y lo tuyo
+
+- 🏆 **Logros con detalle**: los que tienes, con la fecha en que los conseguiste, y los que te faltan, con cómo se consiguen. Los ocultos salen tapados para no destriparte la historia. De Steam y GOG Galaxy, y **en castellano** siempre que se pueda.
 - 📌 **Tu progreso** en cada juego (pendiente, jugando, terminado, completado al 100 % o abandonado) y 🗂️ **tus listas** («Para jugar en pareja», «Cortos para entre semana»…).
 - ⏱️ **Horas con One More Coin**: lo que juegas con la app abierta, con tu top 10. Puede quedarse en **segundo plano** junto al reloj para no perderse ninguna partida (y sirve también para los juegos de Epic, que no guardan horas).
-- 📅 **Tu semana** (horas de cada día, calendario y juego del mes) y 💽 **espacio en disco**: lo que ocupa cada juego y cuáles podrías desinstalar.
+- 📅 **Tu semana** (horas de cada día, calendario de tus días de juego y juego del mes) y 💽 **espacio en disco**: lo que ocupa cada juego y cuáles podrías desinstalar.
+
+<div align="center">
+<img src="capturas/21-logros.png" width="49%" alt="Logros con detalle: conseguidos con su fecha">
+<img src="capturas/22-progreso-listas.png" width="49%" alt="Tu progreso y tus listas en la ficha">
+<img src="capturas/19-perfil-semana.png" width="49%" alt="Tu semana y el calendario de tus días de juego">
+<img src="capturas/20-espacio-disco.png" width="49%" alt="Espacio en disco y candidatos a desinstalar">
+</div>
 
 ## 📰 Noticias de videojuegos y PC
 
 Lo último de portales en español (3DJuegos, Vida Extra, HobbyConsolas, IGN España, Eurogamer, Xataka, HardZone…), con filtros por tema y por portal, y arriba las noticias que hablan de **juegos que tienes**. Cada noticia se abre en la web del portal: One More Coin solo las recopila.
+
+<div align="center"><img src="capturas/23-noticias.png" width="80%" alt="Noticias de videojuegos y PC"><br><sub>Las fotos de las noticias son de cada portal; aquí salen desenfocadas.</sub></div>
 
 ## 🏷️ Ofertas, juegos gratis, ✨ recomendados y ⭐ deseados
 
@@ -201,7 +222,8 @@ El botón **«Analizar mi equipo»** te dice si te conviene. Funciona desde un I
 | 📖 **Fichas completas**: descripción, capturas, vídeos y la insignia **GOTY** de los Juegos del Año | 🗣️ **Qué dice el fandom**: el resumen de lo que opinan jugadores y crítica |
 | 🔍 **Filtros de todo tipo**: tienda, género, cooperativo, PvP, sin estrenar, nota… | ✍️ **Tu nivel y tu crítica** para cada juego |
 | 🔄 **Se actualiza sola**: tu biblioteca y la propia app | 🐢 **Modo ligero** para PCs antiguos, con **análisis de tu equipo** |
-| ➕ **Añade a mano** lo que una tienda no guarde en el PC | 📖 **Guía** de todo lo que hace, y las **novedades** de cada versión dentro de la app |
+| ➕ **Añade a mano** lo que una tienda no guarde en el PC | 📖 **Guía** de todo lo que hace, con un botón «Llévame» a cada cosa, y las **novedades** de cada versión |
+| 🟢 **Segundo plano** junto al reloj (opcional) y elige qué hace la ✕ de la ventana | 🗂️ **Tus listas** y 📌 **tu progreso** en cada juego, con sus filtros |
 | 🔔 **Avisos**: juegos gratis y ofertas nuevas, versión nueva, ofertas de tus deseados y deseados que ya tienes | 🧩 **Una sola carta** aunque tengas el juego en varias tiendas |
 
 ## 🔒 Tus datos son tuyos
@@ -244,7 +266,7 @@ Dónde se ponen: **menú 🪙 → Ajustes → «Claves para más datos»**, con 
 | **Sistema** | Windows 10 (64 bits) | Windows 10 u 11 (64 bits) |
 | **Procesador** | 2 núcleos (de 2010 en adelante, p. ej. Intel Core i3 de 1.ª generación) | 4 núcleos o más |
 | **Memoria** | 4 GB | 8 GB |
-| **Disco** | 500 MB libres | 500 MB libres en un SSD |
+| **Disco** | 1 GB libres | 1 GB libres en un SSD |
 | **Pantalla** | 1280 × 720 | 1920 × 1080 |
 | **Internet** | Para completar los datos de los juegos y buscar ofertas | Lo mismo |
 
@@ -255,7 +277,7 @@ Dónde se ponen: **menú 🪙 → Ajustes → «Claves para más datos»**, con 
 | **Sistema** | 64 bits (x86-64): Ubuntu 22.04, Linux Mint 21, Debian 12, Fedora 38 o similares | Ubuntu 24.04 o equivalente reciente |
 | **Procesador** | 2 núcleos (de 2010 en adelante) | 4 núcleos o más |
 | **Memoria** | 4 GB | 8 GB |
-| **Disco** | 500 MB libres | 500 MB libres en un SSD |
+| **Disco** | 1 GB libres | 1 GB libres en un SSD |
 | **Pantalla** | 1280 × 720 | 1920 × 1080 |
 | **Para leer tu biblioteca** | Steam, Heroic (Epic, GOG y Amazon), Lutris o itch.io. Lo que no es Steam está en pruebas | Lo mismo |
 
@@ -266,10 +288,11 @@ Dónde se ponen: **menú 🪙 → Ajustes → «Claves para más datos»**, con 
 | **Sistema** | macOS 12 Monterey | macOS 14 Sonoma o más nuevo |
 | **Procesador** | Chip de Apple (M1 o posterior). Los Mac con procesador Intel no son compatibles | M2 o posterior |
 | **Memoria** | 8 GB | 8 GB o más |
-| **Disco** | 500 MB libres | 500 MB libres |
+| **Disco** | 1 GB libres | 1 GB libres |
 | **Pantalla** | 1280 × 800 | La del propio Mac |
 | **Para leer tu biblioteca** | Steam, GOG Galaxy, Epic, Battle.net, itch.io o Heroic. Lo que no es Steam está en pruebas | Lo mismo |
 
+> **Lo que ocupa:** el instalador pesa unos **100 MB** y la app instalada, unos **350 MB**; tu biblioteca, sus imágenes y la caché suman algo más con el uso (por eso pedimos 1 GB libre).
 > En equipos justos, activa el **Modo ligero** (menú 🪙 → Ajustes); el botón **«Analizar mi equipo»** te dice si te conviene.
 > En todos los sistemas hace falta **internet** para completar los datos de los juegos y buscar ofertas.
 
@@ -328,7 +351,7 @@ Para ver tu biblioteca, no: One More Coin lee la lista que cada launcher dejó e
 
 <details><summary><b>📤 ¿Qué sale de mi PC?</b></summary>
 
-Solo lo necesario para completar la ficha de cada juego: su **nombre o su número en la tienda**, que se pregunta a servicios públicos (la tienda de Steam, GOG, Wikidata…) para traer la portada, el año, la nota de los jugadores o los extras que trae. Nunca se envía tu lista completa ni nada que diga quién eres, ni tus horas, ni tus cuentas. Para las noticias, a cada portal solo se le pide su lista pública de noticias. Lo único más es lo que tú escribas en «💬 Sugerencias», que llega sin tu nombre ni tu correo.
+Solo lo necesario para completar la ficha de cada juego: su **nombre o su número en la tienda**, que se pregunta a servicios públicos (la tienda de Steam, GOG, Wikidata…) para traer la portada, el año, la nota de los jugadores o los extras que trae. Nunca se envía tu lista completa ni nada que diga quién eres, ni tus horas, ni tus cuentas. Para las noticias, a cada portal solo se le pide su lista pública de noticias, y para traducir logros al castellano, a la página pública de logros de Steam (solo con el número del juego). Lo único más es lo que tú escribas en «💬 Sugerencias», que llega sin tu nombre ni tu correo.
 </details>
 
 <details><summary><b>¿Qué gano yo usando One More Coin?</b></summary>
@@ -363,7 +386,7 @@ Son **opcionales y gratis**: sirven para tener más notas de jugadores (RAWG) y 
 
 <details><summary><b>¿Ralentiza mis juegos?</b></summary>
 
-Mientras está abierta, revisa tu biblioteca al arrancar y cada hora, en segundo plano. Para jugar **no hace falta tenerla abierta**: si quieres el PC al 100 %, ciérrala. En equipos justos, activa el **Modo ligero** (menú 🪙 → Ajustes).
+No. Mientras está abierta, revisa tu biblioteca al arrancar y cada hora, y cada 30 segundos mira qué programa tienes abierto (para apuntar tus partidas); son tareas muy ligeras. Para jugar **no hace falta tenerla abierta**, aunque así no se apuntan tus horas con One More Coin; si quieres que sí, déjala **en segundo plano** junto al reloj. En equipos justos, activa el **Modo ligero** (menú 🪙 → Ajustes).
 </details>
 
 <details><summary><b>¿Funciona sin internet?</b></summary>
@@ -373,7 +396,7 @@ Sí: tu biblioteca, tus horas y todo lo ya descargado se ven sin conexión. Inte
 
 <details><summary><b>¿Por qué falta algún juego o no salen sus horas?</b></summary>
 
-Algunas tiendas no guardan en el PC todo lo que tienes comprado (Epic, Battle.net o Xbox, por ejemplo) y otras no guardan las horas (Epic). Los que falten se pueden **añadir a mano** y los que sobren, **ocultar**.
+Algunas tiendas no guardan en el PC todo lo que tienes comprado (Epic, Battle.net o Xbox, por ejemplo) y otras no guardan las horas (Epic). Los que falten se pueden **añadir a mano** y los que sobren, **ocultar**. Y las horas de Epic aparecen en «⏱️ Con One More Coin» si juegas con la app abierta.
 </details>
 
 <details><summary><b>¿Funciona en un PC antiguo?</b></summary>

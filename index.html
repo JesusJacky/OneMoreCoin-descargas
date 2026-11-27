@@ -47,6 +47,13 @@
   .fiar { border: 2px solid #3ddc97; background: rgba(61, 220, 151, .07); padding: 16px 20px; margin-bottom: 34px; }
   .fiar h2 { margin: 0 0 10px; font: 400 15px/1.4 "Press Start 2P", monospace; color: #3ddc97; }
   .fiar ul { margin: 0; padding-left: 20px; color: var(--suave); font-size: 15px; } .fiar li { margin: 4px 0; } .fiar b { color: var(--texto); }
+  .seccion { margin: 0 0 34px; }
+  .seccion h2 { font: 400 16px/1.5 "Press Start 2P", monospace; color: var(--amarillo, #ffe600); margin: 0 0 8px; text-shadow: 2px 2px 0 #ff2bd6; }
+  .seccion p { color: var(--suave); font-size: 15px; margin: 0 0 14px; }
+  .galeria { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; }
+  .galeria figure { margin: 0; border: 2px solid #3b2a63; background: rgba(20, 10, 40, .75); }
+  .galeria img { display: block; width: 100%; height: auto; }
+  .galeria figcaption { padding: 8px 12px; font-size: 13px; color: var(--suave); }
   footer { text-align: center; color: var(--suave); font-size: 13px; margin-top: 34px; }
   footer a, .aviso a { color: var(--cian); }
 </style>
@@ -107,8 +114,34 @@
     <div class="tarjeta"><b>🎨 Más de 60 estilos</b><span>Recreativa, escritorios de varias épocas, consolas, juegos míticos, anime, cine… y modo ligero para PCs antiguos.</span></div>
   </div>
 
+<!-- «Tu año en juegos»: el vídeo con música (a este apartado enlaza el README con #tu-ano). -->
+  <section class="seccion" id="tu-ano">
+    <h2>🎆 Tu año en juegos</h2>
+    <p>Como los resúmenes anuales de las apps de música, pero de tus juegos: un escenario de recreativa que late con la música, tu juego del año con redoble y confeti, tu top, tus logros, tu título de jugador… y al final lo guardas como imagen. Solo cuenta lo de ese año.</p>
+    <div class="video">
+      <video controls playsinline preload="metadata" poster="video/tu-ano-portada.jpg" controlslist="nodownload noplaybackrate" disablepictureinpicture oncontextmenu="return false">
+        <source src="video/tu-ano.mp4?v=1" type="video/mp4">
+        Tu navegador no puede reproducir el vídeo.
+      </video>
+    </div>
+    <p class="creditos">Música: «Synth Wave», de Alex McCulloch (CC0)</p>
+  </section>
+
+<!-- Galería de las funciones nuevas, con capturas reales de la app. -->
+  <section class="seccion">
+    <h2>🏆 Lo tuyo, de un vistazo</h2>
+    <div class="galeria">
+      <figure><img src="capturas/21-logros.png" alt="Logros con detalle" loading="lazy"><figcaption>Logros con detalle: cuáles tienes y cuándo, y cuáles te faltan (sin destripes)</figcaption></figure>
+      <figure><img src="capturas/19-perfil-semana.png" alt="Tu semana y tus días de juego" loading="lazy"><figcaption>Tu semana, tu juego del mes y el calendario de tus días de juego</figcaption></figure>
+      <figure><img src="capturas/22-progreso-listas.png" alt="Tu progreso y tus listas" loading="lazy"><figcaption>Tu progreso en cada juego y tus listas a medida</figcaption></figure>
+      <figure><img src="capturas/3-perfil-jugador.png" alt="Tu perfil de jugador" loading="lazy"><figcaption>Tu perfil de jugador, con tu título y sus 3 niveles</figcaption></figure>
+      <figure><img src="capturas/20-espacio-disco.png" alt="Espacio en disco" loading="lazy"><figcaption>Lo que ocupa cada juego y cuáles podrías desinstalar</figcaption></figure>
+      <figure><img src="capturas/23-noticias.png" alt="Noticias" loading="lazy"><figcaption>Noticias de videojuegos y PC (fotos desenfocadas: son de cada portal)</figcaption></figure>
+    </div>
+  </section>
+
 <!-- Aviso de beta, requisitos y enlace a la página de descargas. -->
-  <p class="aviso"><b>Gratis y en beta.</b> Windows 10/11 (64 bits); Linux y Mac en prueba. Tu biblioteca se lee en tu PC y solo leyendo: no se envían tus datos a nadie.
+  <p class="aviso"><b>Gratis y en beta.</b> Windows 10/11 (64 bits); Linux y Mac en prueba. Ocupa unos 350 MB (pide 1 GB libre). Tu biblioteca se lee en tu PC y solo leyendo: no se envían tus datos a nadie.
     Requisitos e instrucciones en la <a href="https://github.com/JesusJacky/OneMoreCoin-descargas">página de descargas</a>.</p>
 
 <!-- Pie de página con la autoría y los derechos. -->
